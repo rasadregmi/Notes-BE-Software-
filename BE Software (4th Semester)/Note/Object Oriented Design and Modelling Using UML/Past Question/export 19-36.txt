@@ -1,0 +1,682 @@
+Page 1
+
+the account number and sends it over to the bank . The bank verifies the Bachelor
+encrypted Account and PIN number . If the PIN number is correct , the Level : Programme : BE
+ATM displays " Enter amount " , draws money from the bank account and Object Ori
+pays out the amount . Course : through U
+7. Write short notes on : ( Any two )
+a ) Object diagram 2
+b ) Creator pattern Candidates are re
+c ) UML multiple perspectives as practicable .
+The figures in th
+Attempt all the
+1. a ) What is UN
+process ?
+b ) What is obj
+software de
+2. Case Study : Bar
+CS CamScanner
+
+
+Page 2
+
+Verifies the POKHARA UNIVERSITY
+er is correct
+, the the bank : 2017
+o account and Level : Bachelor Semester : Spring Year
+Programme : BE Full Marks : 100 Pass Marks : 45 Design and Modeling
+Time : 3hrs . Course : Object Oriented through UML
+Candidates are required to give their answers in their own words as far
+as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+1. a ) What is UML ? How agile is applied to software development 7
+process ?
+b ) What is object oriented analysis and design ? Describe the most used 8
+software development life cycle used nowadays ?
+2. Case Study : Bank Transaction System :
+Dank Transaction System
+ok ! Display Balance
+Cash PIN
+Card number
+Withdraw
+Money
+Inchid
+Curlemel
+Racord
+Bank Castler Deposit
+Record
+Withdrawal
+Deposit
+Bank
+Nemo Account
+Numbar
+Fig : use case of Bank
+Transaction System 1
+CS CamScanner
+
+
+Page 3
+
+On the basis of above Use case : system sequence diagram for Withdraw Money and Level : Bachelor Programme : BE Object Orie
+a ) Develop the functions . Course : Through U
+Deposit for any one of the system operations you identify .
+b ) Write the contract Model used for ? How system behaviour can
+3. a ) What is conceptual abstraction and Encapsulation ? Explain . Candidates are re
+achieve data practicable .
+4. a ) What does visibility controls in Object oriented programming ? The figures all the d
+b ) When contracts are used ? Explain in context of an example by using as in the
+the standard guidelines .
+Describe different types of it with example . Attempt
+b ) What are the roles of objects and patterns in OODM ? Describe the
+different patterns used . 1. a ) Explain
+5. a ) How domain model can be built from use case ? Illustrate the steps How is 1
+used . behavio
+b ) Explain b ) What are the important things to be handled during mapping design to code ? Illustrate with an example . 7 specify
+6. a ) Why exception and error handling is important in OOAD ? Explain a ) What a
+a ) Use Case Model ( Any two ) b ) What 2x !
+7. Write short notes on : functionality ? betwe
+. b ) What are descriptor classes in GRASP ? How does 7 2. record
+it achieve singleton 8
+b ) MVC Pattern conc syste
+c ) Creating methods from collaboration 3. a ) Hov
+diagram Stu
+
+
+
+Page 4
+
+TO Withdraw Money POKHARA UNIVERSITY
+system operations you identify Semester : Fall Year Full Marks : 100 45
+for ? How system behaviour Level : Bachelor Pass Marks :
+culation ? Explain . Programme : BE Oriented Design and Modeling 3hrs . Time
+context of an example Course : Object UML .
+by using Object oriented Through required to give their answers in their own words as far
+programming mple . tterns in OODM ? Describe Candidates are as practicable . The figures in the margin indicate full marks .
+the use case ? Illustrate Attempt all the questions . abstraction with suitable examples ? the
+the steps andled 1. a ) Explain data and behavioral responsibilities assigned to objects different from
+during mapping How is the behavior that they exhibit ? performing requirements elicitation and 7
+design ortant in OOAD b ) Explain the process of specifying those requirements using a visual modeling tool ? identifying and
+? Explain How does it achieve use cases and how can they be used for differentiate
+. a ) What are requirements ? How would you
+singleton recording system between include and extend relationship between use cases ? between Domain
+ram system making necessary 3. a ) How are system events identified ? 9
+2 b concept elements ? Construct a domain model for a patient care
+: 2018
+) What are the different relationships that may exist
+assumptions .
+Student Attendance Monitoring System :
+In case of a Student Attendance Monitoring System , the system
+allows students to record their daily attendance through a Biometric
+Finger scan device . The system records the daily attendance of
+students and generates a report at the end of every month that shows
+the late arrival details , number of absentees etc. The system allows
+staff members to print the reports and configure the system as per
+their need .
+Identify the potential use cases for scenarios and elaborate them further
+by coming up with individual sequence diagrams
+for identifying the system events belonging to the individual scenario b ) How can iterations
+. and conditional messages be shown Collaboration
+using a diagram and a Sequence diagram ? 4. a ) Cheque Payment
+: A customer presents
+a cheque to the bank employee . checks if the cheque
+The employee and the signature are valid and
+that the
+7
+H J K L
+CS CamScanner
+
+
+Page 5
+
+customer has enough amount of balance in the account . maximum amount of withdrawal allowed is 100000 per cheque case the Bachelor Object Oriented 38 : UML give their
+The Design
+unless the customer is a Privileged Customer in which customer can make a withdrawal of 500000 per cheque . Upon Through required to
+successful verification , the system records the successful completion transaction and the cash is handed over to the customer . didates are indicate
+of the modeling of the above scenario . practicable . margin
+Perform domain i . sequence diagram for the events that occur in the the
+ii . Draw the figures in questions .
+scenario . the
+b ) What is the difference between coupling and cohesion ? How can rather than the Aempt all to form
+you make use of the Information Expert Pattern Controller pattern for delegating responsibilities to objects while necessary behavioura
+designing a system ? Why is it data and difference b
+5. a ) In the UML , how can error generated and exceptions thrown by 71 forming H
+operations be illustrated in a Sequence diagram ? Explain with the Explain the elicitation ?
+necessary figure . requirements static and dy
+b ) ATM : 8 Differentiate concise
+A customer having a Savings account in a Bank swipes a card in an ATM with a
+machine and types in the PIN number using the keyboard of life cycle Online Food C
+the ATM . The System checks if the PIN matches the card . If the Yummy Food Q
+PIN does not match , the system rejects the card and display the b ) Online
+rejection message in the ATM display . If the PIN is found to be a In case of an online . The sys
+valid one , the customer types in the amount to be withdrawn . The order food report af
+system checks if the customer has enough amount of balance in that account generates a notes
+. If he does , the system debits the account and dispatches and system
+cash thru the dispenser of the ATM and a receipt gets details . The discount a
+printed and issued to the customer . and provides administrato
+Come up with a design class diagram for the scenario then system mentio
+above and map those classes to code in any programming the the above
+language that supports Object Oriented Paradigm . 6. a ) What are For elaborate them identif
+the artefacts created during the Object Oriented phase and for
+Analysis of software development and how do those artefacts converted into concrete 8 diagrams
+get design during the Object Oriented phase thru elaboration scenario . How do you
+Design ? b ) Why should one expect and 3. a ) requirements
+7. Write short notes on plan for change and deviation from the design even during programming ? Explain automate the with a d
+: ( Any two ) . a ) Activity Diagrams 7 up assumption
+b ) Iterative Process 2x5 Explain sy
+c ) Local and Global b ) Visibility SSD
+2
+POKHARA UNIVER Semester : Spri
+and Mo
+CS CamScanner
+
+
+Page 6
+
+the Upon Semester : Spring Year : 2018 Full Marks : 100
+completion · customer . Level : Bachelor Programme : BE Object Oriented Design and Modeling Pass Marks : 45 : 3hrs .
+eve scenario , Course : Through UML far
+the events that occur in the required to give their answers in their own words as
+coupling and cohesion ? How can Expert Pattern rather than Candidates as practicable . margin indicate full marks .
+the responsibilities to objects while The figures in the
+generated and exceptions thrown by diagram ? Explain Why is it necessary to form abstractions ? Explain the process of examples ?
+Sequence with the a ) forming data and behavioural abstraction with suitable 7 specification and
+punt in a Bank swipes a card in an EN 8 b ) Explain requirements elicitation ? How are they performed ? 7 dynamic model , used in software development
+number using the keyboard of the a ) Differentiate static and
+PIN matches the card . If the life cycle with a concise diagram of each .
+ejects the card and display the b ) Yummy Online Food Ordering : customer to
+ay . If the PIN is found to be a In case of an Online Food Ordering System , the system allows
+amount to be withdrawn . The food online . The system records the orders placed by the customers
+ugh amount of balance in that order of every month that shows the order
+ds the account and dispatches and generates a report at the end
+d a receipt gets printed and details . The system notes the customers who place orders more frequently
+for the scenario above and and provides discount as per the published discount scheme the system administrator to configure the system and print reports .
+rogramming language that For the above mentioned scenario , come up with the potential use cases .
+Object Oriented Analysis 8 and elaborate them further by coming up with individual sequence diagrams for identifying
+w do those artefacts get the system events belonging to the individual
+Object Oriented Design scenario . 3. a )
+e and deviation from the with the Domain concept elements from the requirements specified by the customer ? Your college is wanting 7
+7 to automate the manual tasks being
+2 × 5 conducted in the Exam section , come up with a domain model for this scenario
+POKHARA UNIVERSITY
+Time
+are
+Attempt all the questions .
+the difference between requirements
+. It also allows
+How do you come up
+by making the necessary assumptions .
+b ) Explain system response , event and operation . Explain the
+purpose of SSD with an example . 4. a ) How do the artifacts
+created during the Object Oriented Analysis 7
+1
+CS CamScanner
+
+
+Page 7
+
+P
+phase of software development get design during the Object Oriented Design phase ? Explain with an example . Level : Bachelor Programme : BE Oriente
+converted into concrete
+b ) Differentiate between coupling and cohesion by drawing class diagrams of interconnected classes ? When would you rather make use Course : Object through UML
+of the Information Expert Pattern than the Creator pattern for responsibility delegation to objects while designing an Object Candidates are requ
+Oriented system ? diagrams with as practicable . the m
+5. a ) Differentiate between sequence and communication regards to their strength and weakness . Draw a diagram for mutually The figures in
+exclusive conditional path . Attempt all the que
+b ) What is class diagram ? How class diagram can be drawn ? Explain step Unified Model
+by step methodology along with the notations used to create them . a ) " visualizing , com
+On the basis of given figure , convert it to code using a complete 6. a ) . Justi
+source code . systems "
+Shape + m\u00e1ln ( ) : v\u00f6ld Interface >>
+FacadePatternDerno b ) What are the
+OOA / D .
+Dressed form
+Circle 3 . creates Implement Rectangle -rectangle shape a ) Describe th with
+Implements b ) ShapeMaker Explain the
++ draw ( ) : vold What is con 2. a )
+How System
+Square squares Shope Pattern
++ draw ] ) : void + drew ( ) : vold . + ShapeMaker ( ) How do yo
++ draw : void + drawardal vold b ) Interaction
+-circle : Shape
+drawfectangle vold
+4drawSquare wold b ) Differentiate between responsibil
+errors and exceptions . What features provided by the UML for 7. a
+are modeling exception handling ? Write short notes on : ( Any 7 ) What is exclusive
+two ) a ) Steps to create a domain 4 . a
+model . b ) Visibility of objects 2x5 block ex
+c ) Creating class definitions What d
+from DCD's . b ) SSD f
+CS CamScanner
+
+
+Page 8
+
+-te . POKHARA UNIVERSITY
+wing class Level : Bachelor Semester : Fall Year : 2019
+" Ruses . " When than the Creator pattern for Course : Object Oriented Design and Modeling Pass Marks : 45
+would you rather mak use Programme : BE Full Marks : 100
+Pattern while designing an Object through UML Time : 3hrs .
+
+objects
+and communication diagrams with diagram for Candidates are required to give their answers in their own words as far as practicable .
+ness . Draw a mutually The figures in the margin indicate full marks .
+Eagram can be drawn ? Explain step Attempt all the questions .
+otations used to create them .
+= rt it to code using a complete a ) " Unified Modeling Language ( UML ) is a language for specifying , software 8
+visualizing , constructing , and documenting the artifacts of UML in
+systems " . Justify this statement explaining the significance of
+OOA / D . Facade Patternberbo
+b ) What are the various formats to represent a Use case ? Explain Fully- 2 + 5
++ main ( ) : vold Dressed format with an example .
+asks 2. a ) How System Behaviour can be represented in UML ? 8
+b ) What is conceptual Model ? How can one build a conceptual model ? 7 ShapeMaker
+Explain the steps involved . creates circle : Shape
+-rectangle : Shape 3. a ) Describe the significance of GRASP . Explain Information Expert 7
+-square Shape Pattern with an example .
++ ShapeMaker b ) How do you denote mutually exclusive
++ drawardevold conditional paths in 8
++ drawfectangle vold Interaction Diagram ? What are the DO - ing and KNOW - ing
+4drawsquare vold responsibilities of an object ?
+s . What features are 7
+andling ? 4 . a ) What is a collaboration diagram ? How do we represent mutually exclusive conditions in a collaboration 7
+2x5 diagram ? Justify with a complete block example .
+b ) What do What do you mean by system operation , events and behaviour ? Draw a SSD for makePayment ( ) function . 8
+1
+CS CamScanner
+
+
+Page 9
+
+b ) What do you mean by Exception in OOA fully dressed use Description :
+5. a ) Convert the given Design Class Diagram into an equivalent language like Java , C ++ , etc ) el Tamme : Object Oriented UML
+Orde Rectangle Square -square : Shape the terms OO
+code . ( you : Bachelor 9 BE Desig
+can choose any Course : through
+Shape << interface >> Candidates practicable . the margin in
++ draw [ ] : void ShapeMaker The figures in the questions . )
+Implements -circle : Shape Attempt all
+creates Implement -rectangle Shape
++ draw ( ) : vold + draw void + draw ) > vold ShapeMaker ( ) + drawCircle ( ) vold Explain activities in each phase di
+Facade Pattern Demo required to g
++ main ( ) : void are
+asks s
++
++ drawRectangle ) : void an use case
++ drawSquare ( ) void Draw cas
+/ D ? How are Exceptions addressed by UML ? 6 Use Case This
+6. a ) How object oriented is used in their bank account type of account from w
+SDLC ? b ) " Contracts in UML provides a list of possible
+a more detailed description of system behavior when use cases 8 from amounts .
+are insufficient " . Explain this statement an example . 7 of possible verification
+with 7. Write short notes on : ( Any two system for dispenses the
+) a ) System event and machine
+b ) Visibility system operation illustrating un UML 2x5 dispensing of cash is
+c ) High Cohesion and a ) Draw a use cas domain
+Low Coupling b ) Draw a
+POKHAR Seme
+.
+noun phrases c about
+a ) Discuss What do you
+b ) an exan
+with cohesi
+4 . a ) How the depende
+b ) What contract . D
+is Co
+5 . a ) ed
+Why desi
+CS CamScanner
+
+
+Page 10
+
+eates -circle : Shape -rectangle The figures in the margin indicate full marks .
+atent code POKHARA UNIVERSITY
+. ( you
+Facade PatternDemo Level : Bachelor Programme : BE Semester : Spring Full Marks : 100 Pass Marks : 45
++ main : Time : 3hrs . Course : Object Oriented Design and Modeling UML
+void through
+asks Candidates are required to give their answers in their own words as far
+ShapeMaker as practicable .
+: Shape -square : Attempt all the questions .
+Shape
++ ShapeMaker ( ) with key
++ drawCircle ( ) : void a ) Explain the terms OOA and OOD . Elaborate your answer 7
++ drawRectangle activities in each phase .
+( ) : vold + drawSquare (
+) : void b ) Draw an use case diagram for a business of your choice and write 8
+ow are Exceptions fully dressed use case by selecting most important use case .
+option of system 8 from a list of possible accounts , and to choose a dollar amount from a list of possible amounts . The system sends the transaction to the financial 7
+his statement with system for verification . If the financial system approves the transaction , the
+ML 2x5 dispensing of cash is also recorded in the a ) Draw a use case diagram on the basis of above case study . 8
+9 : 2019 Year
+6 Use Case Description : Allows any bank customer to obtain cash from
+their bank account . This use case begins when an ATM customer chooses a
+type of account from which the cash is to be withdrawn ( e.g. checking ) .
+machine dispenses the appropriate amount of cash and issues a receipt . The
+ATM's log .
+b ) Draw a domain model of the above use case by choosing the noun and case diagram . 7
+noun phrases of your use
+Discuss about the different methods for identifying conceptual classes . a ) 7
+b ) What do you understand by the term association ? Explain multiplicity 8
+with an example . cohesion and coupling affects the object
+a ) How pattern . Describe using dependency diagram . 8
+b ) What is Contract ppost conditions are essential for drawing a contract Describe it using a suitable use condition 7
+i . a ) Why design considered as important artifacts in object oriented design ? Explain the use of Creator 8
+b ) What use of attribute and parameter 7
+the ? Pre and
+. case
+. patterns
+are
+and Information Expert
+pattorns . is visibility ? Describe the
+1
+CS CamScanner
+
+
+Page 11
+
+visibility among classes while designing class diagram . errors and exceptions can be handled during Mapping codes to Bachelor
+6. a ) How design ? Elaborate using a simple code snippets using any Object Level : Programme : BE
+oriented programming language of your choice . the diagram into code using any of the object oriented Course : Object O through
+b ) Convert
+languages ( C ++ , Java etc. )
+implements Attempt all the
+Shape FacadePatternDemo Candidates are practicable .
+* draw ( ) : void + main ( ) : void as The figures in t
+implement ShapeMaker O0
+Circle Rectangle Square -circle : How does
+creates Shape -rectangle Shape example .
++ draw ( ) : vold + drow ( ) : void + draw -square Shape ) Explain differ
+( ) : vold
+7. Write short notes on b ) Explain the
+: ( Any two ) a ) Unified conceptual c
+Process b ) Sequence with a scena
+versus collaboration diagram c ) Mapping 2x a ) What is the
+design to codes steps you construc
+asks
++ ShapeMaker ( )
++ drawCirde ( ) : void What do you
++ drawRectangle ( ) : void
++ drawSquare ) : void management
+b ) How does c
+name and m
+Case Study : C
+At the begin
+containing
+about each included
+be to
+students se
+coming choices in
+offerings couise
+A regist
+the se
+system
+CS CamScanner
+
+
+Page 12
+
+Mapping codes to POKHARA UNIVERSITY 2020
+pers using any Object Semester : Fall Year :
+evel : Bachelor Full Marks : 100
+easing any of the object oriented Programme Pass Marks : Time Course : Object Oriented Design and Modeling : 3hrs .
+Gates -crde : Shape -rectangle How does OOD differ from OOA example .
+rede attemDems give their answers in their own words as far
+-main : wo as practicable . indicate full marks .
+asks The figures Attempt all the questions .
+ShapeMaker ? Explain the key OOA activities with 7
+Shape -square : Shape Rational Unified Process . 8
++ ShapeMaker ( ) Explain different phases and disciplines library 8
++ drawOrde : void do you mean by UML ? Draw a use - case diagram for a
++ drewRectangle ( ) What issue - book " .
+: void -drawSquare management system and write fully dressed use case for "
+: ad
+: BE 45
+through UML
+Candidates are required to
+in the margin
+of
+Explain the importance of object - oriented analysis , in identifying and other elements and to construct a domain model , 7
+conceptual classes
+with a scenario .
+2 > What is the role of Domain Model in developing a software ? How can 7
+you construct a domain model ?
+b ) How does classes are linked to one another ? Discuss association with its 8
+name and multiplicity with examples .
+Case Study : Course Registration System
+At the beginning of each semester students may request a course catalog containing
+a list of each course offerings for the semester . Information about each course
+, such as professor , department , and prerequisites will be included to help students
+for prompt decisions . The system will allow students to select four courses
+that are going to be offered for the semester In addition each student will
+coming . , indicate two alte mative choices in case a course offering becomes filled or canceled
+. No course offerings will have more than ten students fewer
+or than three students
+. offering with fewer than three students will be
+A course canceled . Once registration process is completed for
+the a student , the registration sends information to the billing system
+system so the student can be billed for the semester . Professors must be able to
+access the online indicate which courses they will be teaching
+system to , and to see which 1
+CS CamScanner
+
+
+Page 13
+
+6 . a ) How can we make our system tempt all the questions .
+students signed up for their course offerings . diagram . 1
+a ) Considering above scenario , draw the collaboration the class 7 8
+b ) Identify the classes , assume the necessary attributes and draw Bachelor
+diagram . BE
+5. a ) What is visibility in OOP Language ? Describe its role in obtaining high 8 : Object Oriented Design and N
+abstraction . What are the various types of them ? Elaborate using
+diagram and code snippets for the private visibility . required to answer in
+b ) Why do we need design pattems ? Explain the use of low coupling and aidates are 7 vers with a valid set of UML diag
+high cohesion pattems .
+7 . necessary steps to convert design to code with example . Write short notes on : ( Any two QN.1 Discuss the emergence Support your answer w
+a ) Elaborating use case 2 × 50N.2 Differentiate the stru usin
+b ) Representation of system behavior Q.N.3 understanding by Consider a business
+c ) Mapping design to code standard practices to
+b ) Ultimately diagrams are not executable , so we need to convert them
+into code . Explain 8
+)
+more robust ? Discuss the use of exception handling in 7
+OOA and OOD .
+Q.N.4 Differentiate sequen are its
+Q. N. 5 Convert the diagra
+the domain model .
+used and what
+What is visibility in What are the variou
+Java etc. )
+CS CamScanner
+
+
+Page 14
+
+m .
+and draw
+the class
+= in obtaining POKHARA UNIVERSITY
+high Elaborate using el : Bachelor RIM : BE Semester Spring Full Marks 70 Marks 31.5
+w coupling Time : 2 hrs . practicable .
+and are required to answer in their own words as far as s with a valid set of LML diagrams indicate full marks .
+Es the
+use of 7 empt all the questions .
+vert them into Group A : ( 5x10 = 50 )
+n example . 8 N. 1 Discuss the emergence of OOA and OOD phases in addition to the existing OOP . 10
+Year : 2020
+Pass : Object Oriented Design and Modeling through UML
+2x N.2 understanding by using appropriate artifacts for both . Differentiate the structural and behavioral analysis process . Elaborate your 10
+Support your answer with key activities in each phase chronologically .
+QN 3 Consider a business of your choice and develop a domain model . Follow the attributes associations to develop 10
+standard practices to find conceptual classes , and
+the domain model .
+QN . 4 10 Differentiate sequence diagram with collaboration diagram . Why Contracts are
+used and what are its format ?
+OR
+What is visibility in OOAD ? Describe its role in obtaining high abstraction .
+What are the various types of them ? Elaborate using diagram and code snippets .
+Q.N.5 Convert the diagram into code using any of the object oriented languages ( C ++ ,
+Java etc. ) 10
+All
+- creates oice : Shape
+Square rectangle Shape Shaq
+FacadePattern De
+mang tres
+drawdo
+CS CamScanner
+
+
+Page 15
+
+Q. N. 6 Case Study outbreak many sectors have been seriously affected . Face
+L
+P
+Group B : ( 1 × 20 = 20 )
+Due to COVID - 19 mandatory in public places because it is a respiratory sensitive disease .
+masks are A reputed hospital in Kathmandu wants to hire a software development team to
+develop a smart face mask detection system .
+The system needs to be connected with several cameras for detecting human faces anyone face mask . The admin can add
+to make sure whether there is without a
+different wards with details including a supervisor and rooms with cameras in each
+ward . The supervisor can monitor own ward with a dashboard showing the total number
+of faces with mask and without masks . Additionally , there is a smart
+entrance gate that will block the people without a face mask .
+Consider yourself as a team lead of the software development team . Illustrate understanding a )
+your about the context by developing and finalizing the
+following artifacts .
+Use Case Diagram , Sequence Diagram , Class Diagram , Communication Diagram
+. b )
+20
+2 . a
+3 .
+H
+CS CamScanner
+
+
+Page 16
+
+aloud Fac
+faces as practicable . The figures the
+add in margin indicate full marks .
+I showing the too Attempt all the questions .
+here is a sm
+flustrate your a ) How is the Unified Process different than other traditional processes like with regard to the distinctive features of 8
+following waterfall model ? Discuss
+Communication b ) " UML is a language for specializing , visualizing , constructing and 7
+Level : Bachelor POKHARA Semester : Fall Year : 2021 Full Marks : 100
+Programme : BE Pass Marks : 45
+UNIVERSITY
+Course : Object Oriented Design and Modelling Time : 3hrs .
+through UML
+Candidates are required to give their answers in their own words as far
+Unified Process .
+documenting the artifacts of the system . " Justify this statement
+explaining the significance of UML in OO/AD.
+a ) What are use cases and how the can be used for identifying and between 8
+recording system requirement ? How would you differentiate
+include and extend relationship between use cases .
+b ) Why do we need Conceptual Classes ? Discuss with an example . 7
+a ) " Contracts in UML provides a more detailed description of system 5
+behavior when use cases are not sufficient " . Explain this statement with
+an example .
+b ) LEAVE APPLICATION MANAGEMENT SYSTEM : 10
+SYSTEM MODULES
+Register :
+One user has to register on this interface with its actual data to be filled and applied
+in the same interface , then pressed enter to be saved
+in the database . Further move to log in
+, . Login :
+The user inputs its secure user id and password and enters system
+the . User can login multiple times as many times he
+wants Leave apply :
+Here is the module for applying for leave
+to the interface . One has to enter his details about the leave
+like reason of the leave
+.
+CS CamScanner
+
+
+Page 17
+
+Choose the dates of the leave policy of the company or premise the cost interface . Level Programme Course : Object through
+. Depending upon the of the leave : :
+user's Bachelor BE
+account and calculated and shown to the is will
+is review : application of the leave application he
+Live After successful admin . According to his need ,
+come under scrutiny done by an will review it and take necessary action in next module . Candidates a
+Leave approval : admin approves the leave or not is reflected by admin shown to the practicab
+Here users . Here all the real - time updates will be as The figures
+to the Users can see only their own leave request there . Attempt all
+users .
+Log out : , the user can log out the system to release the
+In the end the purpose of anything else . How do
+resources held for the use case diagram for 1. a ) activitie
+Identify the use cases and draw i . What a
+the system b )
+ii . Draw SSD for the scenario of leave application . record
+4. a ) Discuss the importance of using Patterns in OOD . Provide an example 8 includ
+scenario for applying high cohesion pattern . Wha
+b ) Why are interaction diagram developed during OOD ? Differentiate 7 2. a ) Ex
+between Sequence and Collaboration diagrams .
+5. A hospital's ICU department uses various devices during the treatment of 15 b ) W
+patients . Each patient is monitored to measures factors such as temperature , CO
+heart rate , and blood pressure . The device regularly reads the values and record them . For a ) W
+each patient , medical staff also specifies safe ranges for each factor . If a factor 3 .
+falls outside a patient's safe range , or if a device fails , the nurses ' station b)
+is notified .
+Develop a Domain model , Sequence diagrams and Class diagram from these details
+.
+6. a ) Explain with an example , how class diagram can be used 4 . a )
+to generate code . 7 b )
+a ) Visibility on : ( Any two ) 2 × 5
+7. Write short notes are exceptions and errors ? Explain the ways for handling them . 8 5 .
+b ) Test - First Programming
+c ) . Identifying Conceptual classes
+b ) What
+2
+CS CamScanner
+
+
+Page 18
+
+POKHARA UNIVERSITY : 2021
+Semester : Spring Year Full Marks : 100 Level : Bachelor 45
+plication is will to his need Programme : BE Design and Modeling Pass Marks : : 3hrs .
+ling , he module . Course : Object Oriented Time
+reflected by admin
+e shown to the give their answers in their own words as far
+there . Candidates are required to
+tem to release the The figures in the margin indicate full marks . Attempt all the questions
+through UML
+as practicable .
+.
+1. a ) How does OOA differ from OOD ? Elaborate your answer with key 7 e diagram for
+activities in each phase . tion .
+b ) What are use cases and how they can be used for identifying and 8
+recording system requirements ? How would you differentiate between ovide an example 8
+include and extend relationship between use cases ?
+D ? Differentiate 7 2. a ) What are different strategies for identifying conceptual classes ? 8
+Explain with examples .
+the treatment of 11 b ) What is an operation contract ? Is it essential to develop an operation 7
+as temperature , contract for each and every system operations ? Explain .
+the values and 3. a ) What is visibility ? Describe the use of attribute and parameter visibility 8
+safe ranges for among classes while designing class diagrams .
+if a device fails , b ) Discuss the necessity of interaction diagram during software design .
+7 How is conditional messages and mutually exclusive conditional paths
+gram from these illustrated in interaction diagrams ? Explain .
+sed to generate 7 8 7 4. a ) Explain different types of relationship used b ) " UML is a language for specializing , visualizing , constructing and
+andling them . 8 P documenting the artifacts of the system . " Justify this statement explaining the significance of UML in OOA / D .
+2 × 5 7 5. a ) What is the significance of studying exception and error handling in
+in class diagram .
+objects oriented analysis and design ? Explain briefly about exception technique .
+handling process of mapping design to code ( both class definition and
+b ) Explain the method definition ) with example . Support your answer by using a design 8
+class diagram and collaboration diagram .
+1
+CS CamScanner
+Hy Alt
+
+

@@ -1,0 +1,168 @@
+Page 1
+
+6. Online Learning platforms help students to search for criteria . If the system shows a suitable course then the students registers for courses as per their 15 the course and paying for it . Interaction with teacher can be done by registered students . Students need to attend the class and submit their assignments regularly . Students who attended 80 % of the classes and submitted all their assignment are awarded with a course completion certificate at the end of the course . Also , the system facilitates the students to cancel their registration and refund the payment if it is done within a week .
+Now draw a use case model ( no description required ) , Domain model , interaction diagrams and design class diagram from these information .
+7. Write short notes on : ( Any two )
+a ) Functional Vs. Non - Functional Requirements 2x5
+b ) Coupling and cohesion
+c ) Reverse Engineering
+
+
+Page 2
+
+POKHARA UNIVERSITY Semester : Fall IS Year : 2022 Full Marks : 100
+Course : Object Oriented Design and Modeling subinit their he classes and Time
+by Level : Bachelor Programme Pass Marks : 45 3hrs .
+se completion students through UML their...
+
+
+Page 3
+
+8 What is visibility ? Describe the use of attribute and parameter visibility Level : Bach
+5. a ) among classes while designing class diagrams . Programme
+b ) Draw system sequence diagram for enterItem in POS . Explain system . events and system operation . 7 Course : Ob th
+7 6. 2 ) What is the significance of studying exception and error handling in
+objects oriented analysis and design ? Explain briefly about exception Candidate
+handling technique . practic
+b ) Explain the process of mapping design to code ( both class definition as figur
+and method definition ) with example . Support your answer 8 The
+by using a design class diagram and collaboration diagram . Attempt
+7. Write short notes on : ( Any two )
+a ) Functional Vs. Non - Functional Requirements 2x5 a ) Expla
+b ) Operation contract Orien
+c ) Representation of system behavior b ) Why
+disc
+2. a ) Dise
+3 . a ) W
+dur
+b ) Wh
+ex
+do
+b ) " T
+a
+4 . Cas
+а
+Onl
+mo
+CS CamScanner
+the
+av
+pr
+d
+
+
+Page 4
+
+S Explain system Level : Bachelor Programme : BE Semester Full Marks Pass Marka : 45
+and error handling in Course : Object Oriented through UML Time far
+ely about exception to give their answers in their own words as
+code ( both class Candidates are required as practicable .
+pport your answer 00 The figures in the margin indicate full marks .
+gram . Attempt all the questions . and Object- 7
+2 × 5 a ) Explain the difference between Object - Oriented and
+POKHARA UNIVERSITY Spring Year : 100
+Design and Modeling
+Analysis
+Oriented Design with an example . is use case description important ? Provide an example ४
+b ) Why discuss about the important section of a use case description . role 8
+2. a ) Discuss about the different phases of unified process development .
+and their
+during software Explain different parts of contract with suitable 7
+b ) What is a contract ?
+example . a conceptual model ? How is a 7
+3. a ) What is the purpose of developing model represented ? Discuss its components .
+domain
+b ) " Designers make a bridge between customer requirements and the 8
+actual working code " , Justify this statement using major sets of design
+artifacts .
+4. Case Study 15
+Online Medical Store system allows us access their system with a valid
+mobile number . We can search for medicines in their systems by providing
+the doctor's prescription list . The prescription list is compared and a list
+of available medicines is displayed to us . Then we select
+the medicines and proceed to checkout and make payment
+. We also indicate the address for delivery . The system displays
+the expected delivery date . After that , a SMS with the delivery details
+is sent to our mobile number . Also facilitates the customers
+, the system to cancel their order 1 week no cancellation
+before delivery with charge . After 1 week no cancellation Draw a use
+can be made . case model , Domain model , collaboration class diagram from
+diagrams and design these information .
+CS CamScanner
+
+
+Page 5
+
+5. a ) Discuss the scope and visibility of objects . Elaborate the use of local visibility in details
+parameter visibility and coupling affect a good design ? Explain with 8
+b ) How , cohesion and
+suitable points .
+7
+6. a ) Explain about Fault , error and failure with relevant examples . Discuss 8
+the steps to handle exception in object oriented programming .
+b ) Designs are for programmers not for end users . Show how different 7
+design diagrams help programmers for writing code .
+7. Write short notes on : ( Any two ) 2 × 5
+a ) Conceptual class category list
+b ) Collection Classes
+c ) Information expert
++
+CS CamScanner
+
+
+Page 6
+
+With Level : Bachelor Modelling through Pass Marks Time : 3hrs .
+amples . Discuss Programme : BE Course : Object Oriented Design and words as far
+ming UML answers in their own
+how different are required to give their
+2x5 The figures in the margin indicate full questions .
+POKHARA UNIVERSITY Semester : Fall Year Full Marks : 100 : 45
+: 2023
+Candidates practicable . marks .
+as
+Attempt all the Oriented Analysis and Object- 7
+1. a ) relationship Explain the difference between Design with an example . 8
+b ) What is Use case diagram ? Explain . Draw Use Case Diagram for Online Hotel Reservation
+include and extends Oriented
+with example
+System . contract ? Explain different parts of contract with suitable 8
+Object -
+2. a ) What is a
+example . conceptual model ? How is a 7
+b ) What is the purpose of developing a model represented ? Discuss its components .
+domain
+3. a ) What is the purpose of using system sequence diagram ? Explain it 8
+with suitable example .
+b ) What is class diagram and why they are important in designing the 7
+software system ? How are classes linked to each other ? Show with
+different relationship used in class diagram with examples .
+8 a ) What is GRASP and list out all the patterns also provide the reason why design patterns are used
+4.
+in object oriented design ? Explain the use of low coupling and high
+cohesion . b ) Discuss the scope
+and visibility of objects . Elaborate the parameter
+use of visibility and local visibility in details 7 Explain
+5. a ) the overall process
+of Object - Oriented Software Development ( analysis
+8 , design and modelling , implementation b ) Explain the process
+) . of mapping design to code ( and method definition
+both class definition ) with example . 7 6. Differentiate
+a ) error and exceptions
+. How are exceptions UML diagram ? Explain .
+handled in 7
+Page 1 of 2
+CS CamScanner
+
+
+Page 7
+
+b ) Why is it important to list the requirements before making the actual 8
+design ? Explain with the help of Library Management System .
+2x5 7. Write short notes on : ( Any two )
+a ) Unified process
+b ) Sequence vs Collaboration diagram
+c ) Creating methods from collaboration diagram
+CS CamScanner
+
+

@@ -1,0 +1,309 @@
+Page 1
+
+POKHARA UNIVERSITY
+Level : Bachelor Semester
+Programme : BE : Spring Year : 2018 Course
+Full Marks : 100 : Analysis and Design of
+Pass Marks : 45 Algorithm
+Time : 3hrs .
+Candidates are required to give their answers in their own words as far
+as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+1. a ) Explain the term Big - oh , Big - omega and Big - theta . Show that a 8
+function f = 3n² + 4n + 7 is big theta of n² .
+b ) In each of the following situations , indicate whether f = O ( g ) , or f = 7
+( g ) , or both ( in which case f = ( g ) ) .
+f ( n ) g ( n )
+n - 100 n - 200 ( a )
+( b ) 20 722 1 723
+( c ) log 2n log 3n logn²
+( d ) 10 logn
+2 " ( e ) n !
+7 2. a ) Briefly explain a circular queue . Write algorithm to add and remove
+00 your algorithm . Briefly explain a link list data structure . Write algorithm to add and
+7 your algorithm . algorithm for bubble sort and trace out the algorithm for
+8 bubble sort with suitable example . Discuss how Strassen's method can perform matrix multiplication of
+an element from the circular queue and compute the complexity of
+4 . two n x n matrix in O ( nlog₂ 7 ) . a ) for computing the MST of a given graph and 8
+b ) an element from the link list and compute the complexity of
+remove
+a ) Write an
+b )
+Explain prim's algorithm correctness of this algorithm .
+analyze it . Also verify the b programming method for problem 7
+) Briefly explain the dynamic Dynamic programming
+solving . What is the basic difference between
+CS CamScanner
+
+
+Page 2
+
+and Greedy method ? dynamic programming technique be applied to
+5. a ) How can The Travelling salesman
+b ) Explain Dijkstra's algorithm computing single graph with suitable example . source 8
+for the
+shortest path in a a ) Write an algorithm to determine biconnected components in a graph .
+b ) Let w = { 5 , 7 , 10 , 12 , 15 , 18 , 20 } and m = 35. Use Backtracking
+6. 7
+algorithm to systematically search the solution space to find few 8
+possible subsets of w that sum to m . Also , draw a portion of the tree
+diagram that shows the organization of state space .
+7. Write short notes on : ( Any two )
+a ) Binary Search Tree 2x5
+b ) Knapsack 0/1 problem
+c ) Graph Coloring Problem
+CS CamScanner
+
+
+Page 3
+
+POKHARA UNIVERSITY
+Level : Bachelor
+Programme : BE Semester : Fall Year : 2018 Course
+Full Marks : 100 : Analysis and Design of Algorithm
+Pass Marks : 45
+Time 3hrs .
+Candidates are required to give their answers in their own words
+as far as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+1. a ) What do you mean by Best case , Worst case and average case complexity 7
+of an Algorithm ?
+Given the following pseudo code for finding the minimum and
+maximum elements of an array . ( where all the elements are distinct )
+Find minimum and Maximum ( x [ ] , N )
+/ * x [ ] is the input array of size N * /
+{
+} case and worst case complexity for the above
+min = max = x [ 0 ]
+for i : = 1 to N - 1 :
+if x [ i ] < min :
+min = x [ i ]
+else if x [ i ] > max :
+end for
+max = x [ i ]
+What would be the best
+algorithm ? Explain . Explain the Master's method for solving the recurrence relations . Give 8
+b ) recurrence relation where Master's method cannot be
+an example of a the following recurrence relations using Master's
+applied . Solve
+method .
+2 . iii . T ( n ) = 4T ( n / 3 ) + n² a ) Give example where such a 8
+i . T ( n ) = 2T ( n / 4 ) + √n
+ii . T ( n ) = 3T ( n / 2 ) + n
+Explain a MaxHeap Data Structure . an algorithm to delete the max
+data structure may be used . Write the complexity
+Element from a MaxHeap and analyse its time .
+CS CamScanner
+
+
+Page 4
+
+b ) Describe Queue Abstract the time complexity various operations allowed on a circular queue
+data structure . Discuss
+3. a ) Write , in pseudocode , algorithm sort and trace each steps algorithm on following array , A [ ] = { 16,7,15,14,18,25,55,32
+the for quick - of
+b ) You are given a problem of finding the value of x using only supplied multiplications and additions where x and N are
+of the ) N
+.
+by user How would apply divide and
+at runtime . you conquer strategy to
+find the value of x " using minimum number of multiplication ?
+You should be able to do better than multiplying x * x * ... * X
+N - 1 times . Find the complexity of your algorithm .
+4. a ) Describe the Binary search algorithm and analyze it's time complexity .
+b ) State the 0/1 knapsack problem and explain why greedy algorithm does
+not give optional solution for this problem . Give an algorithm to solve
+this problem optimally .
+5. a ) Explain Djikstra's algorithm for computing the single source shortest
+path in a graph with suitable example .
+b ) Describe an algorithm for computing the Minimum Spanning Tree 8
+( MST ) of a given graph . Analysis its time complexity . Also , verify its
+correctness .
+6. a ) Define graphs , complete graphs , bipartite graphs , planar graphs and 8
+trees . Describe different binary tree traversal techniques .
+b ) State the Hamiltonian graph problem and show that backtracking can
+be used to solve it .
+7. Write short notes on : ( Any two ) 2 × 5
+a ) Tree vertex splitting problem
+b ) TSP
+c ) Sets and Disjoint Set Union master's
+CS CamScanner
+
+
+Page 5
+
+POKHARA UNIVERSITY
+Level : Bachelor Semester : Spring Year : 2017
+Programme : BE Full Marks : 100
+Pass Marks : 45 Course : Analysis and Design of Algorithm
+Time : 3hrs .
+Candidates are required to give their answers in their own words as far
+as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+a ) What are the measures that we take to measure the efficiency of an 8
+algorithm ? Write an algorithm to find an element from an array and
+discuss about its best and worst case while finding an element .
+b ) Define aggregate method of amortized analysis with suitable 7
+example .
+a ) Find the run time using recurrence tree method and by master method 8
+T ( n ) = T ( n / 4 ) + T ( n / 2 ) + cn² distinct elements and
+b ) Consider an array a [ ] of n numbers that has n / 2 The problem is to identify the repeated 7
+n / 2 copies of another element . needs at least n / 2 +2 time , so
+element . Any deterministic algorithm improve the efficiency by using randomized algorithm
+how could you
+in this case .
+Find the time and space complexity for following algorithm to find 8
+Greatest common Divisor ( GCD )
+Inputs : Two numbers a and b
+Output : G.C.D. of a and b
+Algorithm : assume ( for simplicity ) a > b > = 0
+gcd ( a , b )
+{
+{
+While ( b ! = 0 )
+d = a / b :
+temp = b :
+} a - temp :
+return a :
+b = a - b⭑d :
+CS CamScanner
+
+
+Page 6
+
+b ) Find the minimum edit distance to transform the string X = aabab\ninto Y = babb . xe0xb8xa1\n4. a ) Compare Divide and conquer and Dynamic Programming approaches\n& of algorithm design with examples . State the 0/1 knapsack problem\nb ) . Suppose n = 4 and W = 16 and\nwe have following .\ni Pi Wi Pi / Wi\n1 $ 40 2 $ 20\n234 $ 30 5 $ 6 $ 50 $ 10 10 $ 5 5 $\n2 5. a ) Explain the graph traversal\ntechniques of BFS and DFS with help of algorithm .\nb ) Solve the following Travelling Salesman Problem starting from Home 8\nusing greedy approach .\nC\n50\n90 100\n.B\n140\n69\nA\n80\nHome Backtracking\nOR the\nExplain backtracking algorithm and write problem could\ndown\nalgorithm for N - queen problem . coloring problem how this explain with\n6. a ) What do you mean by graph Backtracking algorithm ,\nbe solved with the help of complete with a\nalgorithm . NP NP - hard and NP -\nb ) Differentiate between P , ,\nexample of each . on : ( Any two )\nWrite short notes 7 .\na ) Hamiltonian Cycle merge pattern\nb ) Optimal Vegas Algorithm\nc ) Las\nCS CamScanner
+
+
+Page 7
+
+POKHARA UNIVERSITY
+Level : Bachelor Semester
+Programme : BE : Fall Year : 2016
+Full Marks : 100 Course : Analysis and Design of Algorithm
+Pass Marks : 45
+Time : 3hrs .
+Candidates are required to give their answers in their own words as far
+as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+a ) Why iteration and recursion is used in an algorithm . Explain its use . 7
+b ) Write an algorithm to insert and delete an item from binary tree . Also 8
+compare these operations in terms of their time and space complexity .
+a ) Can greed approach be optimal always ? Provide an example to 8
+support your answer ( in terms of time / space usage ) .
+b ) Why is it necessary to have auxiliary array b [ low : high ] in function . 7
+Mege for Merge Sort ? Give example that shows why in place merging
+is inefficient .
+Explain job sequencing algorithm . Provide an analysis of tree vertex 8
+splitting .
+7 by
+2 1 S 9
+6 .
+9 B 6
+3
+2 12
+7 10 3
+4 S
+11 8 11
+5 8 6
+Calculate shortest distance and path from 1 to 12 using backward
+approach . What
+longest common subsequence . is dynamic programming ? Explain the finding method by Write
+of 7
+an algorithm for tree traversal and discuss their complexity . For 8
+the given graph generate a minimum 8
+, perform an operation to
+CS CamScanner
+
+
+Page 8
+
+spanning tree . Also calculate complexity of the
+the time and space
+procedure . 5 E 4
+F
+5 C
+G
+2 2
+3
+b ) Write an algorithm for depth first search and discuss the complexity . 7
+6. a ) Suppose you need an array to store list of students where you need to 7
+A 5 B
+do frequent search for student . Which data structure would you
+choose , stack or dictionary ? Support your answer interms of time and
+space usage .
+b ) Why is backtracking used ? Apply backtracking to sum of subsets 8
+problem .
+7. Write short notes on : ( Any two ) * 5
+a ) Significance of space and time complexity 2
+b ) Optimal merge pattern
+c ) TSP .
+सुगम स्टेसनरी सप्लायर्स एंड फोटोकेपी सर्मिल
+कुमारी ललितपुर 9 8415 99 5 9 2
+NCIT College
+CS CamScanner
+
+
+Page 9
+
+POKHARA UNIVERSITY Level : Bachelor
+Programme : BE Semester : Spring Course :
+Year : 2015 Analysis and Design
+Full Marks : 100 of Algorithm
+Pass Marks : 45
+Time : 3hrs . Candidates are required
+to give their answers in their own words as practicable .
+as far The figures in the margin
+indicate full marks . Attempt all the questions
+.
+a ) What do you mean by an Algorithm ? Explain Las Vegas algorithm
+with an example . 8
+b ) Define Big O , Big and Big O. Why is performance analysis of 7
+algorithm important ?
+a ) Briefly explain circular queue ? Write down the algorithm to insert and 7
+delete an item from an circular queue .
+b ) Write algorithms to insert and delete elements to and from a 8
+dictionary .
+a ) How is merge sort different from quick sort ? Compare both the
+sorting techniques on different instances . 8
+b ) Provide the algorithm
+with each step with an example . How does greedy Knapsack method help in problem solving ? Compare and 8
+contrast 0-1 and 1-4 fractional Knapsack problems in terms of their performances . Consider the following directed graph where four cities all
+with the travelling cost . Find the minimum cost of travelling
+along the cities 140x 10 " is 20
+0 9 10
+13 0 12
+४ 0
+CS CamScanner
+
+
+Page 10
+
+1 d ) BFS v.s.
+5. a ) Find optimal solution to 0-1 knap sack problem where number of 7
+element n = 4 and the size of knapsack - 5 for following items using
+dynamic programming .
+1. W = 2 2. W = 3 3.W = 4 4. W == 5
+V = 3 V = 4 V = 5 V = 6 8
+b ) Describe Dynamic programming approach of problem solving . How
+can we use it to allocate ' r ' number of resources to ' n ' number of
+projects ?
+6. a ) Differentiate depth first search and breadth first search . Generate 7
+spanning tree for graph below using both approach .
+2 3
+5 6 7
+8
+b ) Explain backtracking algorithm for N - queen problem .
+and write down the Backtracking
+algorithm on : ( Any two ) 2 ×
+Write short notes 7 . connected components
+Hamiltonian cycle a ) b ) vertex splitting
+Bi-
+c ) Tree DFS
+CS CamScanner
+8
+
+

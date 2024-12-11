@@ -1,0 +1,715 @@
+Page 1
+
+POKHARA UNIVERSITY
+Level : Bachelor Semester Fall Year : 2012 Full Marks : 100
+Programme : DE and Modelling Pass Marks : 45
+Course : Object Oriented Design through UML Time : 3hrs .
+Candidates are required to give their answers in their own words as far practicable ,
+as marks .
+The figures in the margin indicate full
+Anempt all the questions ,
+What are various notations provided by the UML for capturing the 7
+static and dynamic aspects of a software system ? Explain with figures .
+Explain how the change in requirements is handled on an iterative iterative and incremental 8
+development . List out the advantage of an
+process of software development over waterfall development process .
+What is the basic procedure to find out the use cases ? List benefits of
+writing use cases during software development process ?
+Explain when the changes occur in mapping design to code . 5 
+How do we assign responsibilities to objects ? Explain with a suitable บ 5
+example .
+What are various relationships that might exist between different 8
+domain elements ? Explain using a Patient billing system as an
+example .
+What are the important contents of a Post condition of an operation
+contract ? How is mapping of these operation contracts done during 7
+Object Oriented design phase ?
+OR
+Define role of multiplicity and non primitive types with suitable 7
+examples .
+a ) What is the significance of using interaction diagram during design
+? Compare and contrast system sequence diagram and collaboration 8
+diagram in terms of its weakness and strength .
+b ) When is it desirable to use Controller pattern instead of
+using Information expert pattern when assigning responsibility to objects 7
+? a ) What are the conditions for preparing a contract
+? Does writing 1 7
+CS
+CamScanner
+
+
+Page 2
+
+0 . change and devintion during programming phase ? Explain Case Study : Online Bachelo
+contracts leads to domain model updates POKHARA UNIVERSI
+, defend your b ) Why is it desirable to expect the Semester : Spring
+answer . and plan for design even
+from Hotel Reservation System When making a reservation nel amme : BE Oriented Design and Modelli
+a customer must information To speed Object
+register his her . up the process details of previous stored and made available later urse ugh UML
+personal customers will . By this system the customer reservation and cancel it . When making are required to give their answ choose the number
+be can make a reservation the Candidates transportation etc ) of rooms , the type of
+customer can . The reservation is confirmed when of the total charges . After the reservation room , services ( laundry the margin indicate full mar of the details
+customer pay 10 % , the customer will get an e , meal , figures in of the reservation . Within a hotel there is a reservation controlling Attempt all the questions .
+- mail administrator reservations at the no - shows
+who is responsible for hotel . He is also responsible ( When the reservation at the hotel date ) and makes a reservation Differentiate between state transition
+for processing doesn't show up at reserved for a customer . Now answer the following a ) component diagram and deployme !
+questions : Identify all the use cases write examples .
+and actors and draw all the course of events b ) Draw Describe the importance of Unified ]
+a use case diagram for one use case . class diagram for the 7. Write describe briefly all the phases of Unif
+. Also above scenario . short notes on any a ) Define Use Cases . How Use Cases b
+two : Visibility h process explain with an example .
+) Relationship Describe the importance
+between GRASP and UML c ) High cohesion of Contra detail for at least
+and low coupling one system oper
+2 suitable exam Map the fo
+your own .
+What are the activities perform
+process ? How can potential domai
+be identified ?
+b ) " Well designed interaction diagr
+analysis and designed ' , Justify y
+exclusive condition of UML Coll :
+a ) Show with an example how can
+a Collaboration diagram and a Se between k
+b ) What is the difference
+How does making use of Design
+responsibilities to objects ? Qupling
+a ) How cohesion
+b ) to c
+ara supports
+3 2
+ER T
+CS
+CamScanner
+
+
+Page 3
+
+d your for
+answer . change and deviation ing programming phase ? Explain Reservation
+from System ion a customer must register the details Bachelor POKHARA UNIVERSITY Year : 2012
+his her process of previous later . By this system Level : Programme : BE Semester : Spring Full Marks : 100 Marks : 45 .
+personal customers will the customer When making a reservation the ns , the type of Pass Time Course : Object Oriented Design and Modelling Through UML : 3hrs .
+be can make customer room , services ervation is confirmed Candidates are required to give their answers in their own words as far
+can ( laundry , meal when customer he reservation , the customer as practicable .
+, pay 10 will get The figures in the margin indicate full marks .
+% an e mail ervation administrator Attempt all the questions .
+- who hotel
+is responsible . He is also responsible 8
+for for processing ion at the hotel doesn't show for a customer 5 ) Differentiate between state transition diagram and activity diagram , component diagram and deployment diagram with appropriate 7
+up at reserved . stions examples .
+ол .
+: Process in OOAD . List out and
+nd actors and draw Describe the importance of Unified describe briefly all the phases of Unified Process .
+a use case diagram ts for one
+. Also use case . 3 ) Define Use Cases . How Use Cases benefits the software development
+above scenario . process explain with an example .
+P and UML your own What are the activities performed during the domain modeling 8
+ing process ? How can potential domain elements for a particular scenario
+7
+b ) Describe the importance of Contract in OOAD . Explain contract in detail for at least one system operation for any kind of example of . 8
+.
+be identified ?
+b ) ' Well designed interaction diagram are valuable in object oriented 7
+analysis and designed ' , Justify your answer . Describe the mutually
+exclusive condition of UML Collaboration diagram .
+a ) Show with an example how can conditional messages be portrayed in 7
+a Collaboration diagram and a Sequence diagram .
+b ) What is the difference between knowing and doing responsibilities ? 8
+How does making use of Design Patterns help in correctly assigning
+responsibilities to objects ?
+a ) How cohesion and coupling affect good design , explain with a 7
+suitable example ?
+b ) Map the following design to code in any programming language that 8
+supports Object Oriented Paradigm
+1
+Tab H LL F
+QWER
+D
+D
+CS CamScanner
+
+
+Page 4
+
+7 . exceptions Write short notes on : ( Any two ) example . Distinguish be
+Scavor POKHARA
+Robot Actuators Candidates as practicable .
+pickItem ( ) moveBackward ( ) Attempt all the questions .
+dropliem ( )
+has Through
+has N state ; The figures in the margin india
+tot
+moveForward (
+6. a ) Explain how code can be generated from collaboration diagram and a ) " Good and Precise Requir State Expanded Use case
+design class diagram . Explain with a suitable example . and alternative flow .
+b ) What do you mean by fault , error and failure ? How are perceiv
+addressed by UML ? b ) How are objects
+a ) Code reuse Design .
+b ) Real Use Cases . Why do you make a sys
+c ) Requirements Capture . a ) while designing domain
+Level : Bachelor Programme : BE Sem
+Course : Object Oriented Design UML
+are required to give
+b ) Describe the importance
+2 an , librarian and
+contract , justify your an
+a ) Define the term visibi
+between objects ? Illust
+b ) Explain the importanc
+coupling effect design Distinguish between
+4. a )
+designing Design Clas
+b ) How does design trac
+design phase and cod
+reasoning ?
+ibrary Management Syst
+stem Description : Library
+system is a type
+s to different
+CS CamScanner
+
+
+Page 5
+
+$ moveForward ( The figures in the margin indicate full marks .
+Actuators Candidates are required to give their answers in their own words as far practicable .
+int state . 125
+movellaakwand Attempt all the questions .
+POKHARA UNIVERSITY
+Level : Bachelor Semester : Fall Year : 2013
+Programme : BE Full Marks : 100 Course : Object Oriented Design and
+Modeling UML Pass Marks : 45
+Through Time : 3hrs .
+rated from collaboration diagram and State Expanded Use case with suitable example describing main flow
+ith a suitable example . and alternative flow .ror and failure ? How are 7 b ) How are objects perceived in design phase ? Explain with suitable exceptions
+" Good and Precise Requirements leads to good design " , justify it . 8
+example . Distinguish between OOAD and Structural Analysis and
+Design . 2
+a ) Why do you make a system sequence diagram ? Explain all the steps 7
+while designing domain model with example ?
+b ) Describe the importance of contract in OOAD . Design is initiated by S
+contract , justify your answer with suitable example .
+a ) Define the term visibility and explain different types of visibility
+between objects ? Illustrate with an example .
+b ) Explain the importance of pattern in design . How do cohesion and 7
+coupling effect design ? Explain .
+a ) Distinguish between class and object , what are the major factors for
+designing Design Class Diagram ( DCD ) , explain with suitable logic .
+b ) How does design traces and adjusts the change of requirement during
+design phase and coding phase ? Explain with suitable example and 7
+reasoning ?
+Library Management System
+System Description :
+This system is a Library management system which controls and grants
+access to different types of users such as system administrator , head
+librarian , librarian and members . This system should be able to manage
+K Q W
+E H
+Tab T G
+A S D ?
+Caps
+Lock V B
+LL
+CS
+CamScanner
+
+
+Page 6
+
+books , loans , late fees , searching of books , should be able Semester : Fal
+to keep members in a queue for loans . It should be Bachelor
+able to generate automatic email and SMS message before expiry of book loan .. wel : regramme : BE
+Add qualitative requirements according to the need of the scenario Course Object Oriented Design and Mod UML
+. a ) Draw complete use case diagram . : through
+b ) Draw behavioral model of this case .
+6. a ) Explain how can code be generated from Candidates are required to give their a
+collaboration diagram . Explain taking suitable examples . b ) State the importance of practicable . indicate full
+development process in design . What do you understand by updating of class definitions The figures in the margin
+? Illustrate with an example . 7. Write short notes on : ( Attempt all the questions .
+Any two ) a ) Error and Exception
+handling . b ) Unified Process How is Object Oriented Analysi
+. c ) Activity from other paradigms ? Write
+Diagram . oriented
+POKHARA UNIVE
+approach .
+b ) What are the important com
+Illustrate the importance of us
+developed .
+a ) What do you mean by Syst
+Draw a System Sequence di
+Library system . Write d
+b ) What is a contract ?
+event explaining the signifi Model '
+a ) What is a Domain
+Model ? Explain with exam b associations and
+) Define
+consideration , draw the association
+represent the choose any syst
+free to
+System ) 4. and list
+a ) Define pattern di
+How Expert pattern examples ?
+suitable make a co
+b ) How do you interaction di
+Why is different types of inte
+Explain how code ca
+CS
+CamScanner
+
+
+Page 7
+
+able to keep members POKHARA UNIVERSITY
+rate automatic email Bachelor Semester : Fall Year : 2014
+and Level : Programme : BE Full Marks : 100
+e need of the scenario . Course Object Oriented Design and Modelling Pass Marks : 45
+from collaboration diagram Candidates are required to give their answers in their own words as far
+. s practicable . as
+cess in design . What do The figures in the margin indicate full marks .
+you nitions ? Illustrate with an Attempt all the questions .
+: UML : 3hrs . Time
+through
+a ) How is Object Oriented Analysis and Design paradigm different 7
+from other paradigms ? Write down the advantages of object
+oriented approach .
+b ) What are the important components of a use case model ? 8
+Illustrate the importance of use case diagram for a system being
+developed ..
+Caps
+b ) What is a contract ? Write down a contract for enterItem system 7
+event explaining the significance of post conditions ?
+a ) What do you mean by System Event and System Operation ? 8
+Draw a System Sequence diagram for return book use case of a
+Library system .
+a ) What is a Domain Model ? How do you construct the Domain 7
+Model ? Explain with example .
+b ) Define associations and attributes . Taking a system into 8 .
+consideration , draw the necessary classes of the system and
+represent the association and attributes of these classes . ( You are
+free to choose any system of your choice like POS , Library
+System )
+4. a ) Define pattern and list out different types of GRASP pattern . 8
+How Expert pattern differs from Creator pattern , explain with
+suitable examples ? model ? Illustrate .
+b ) How do you make a conceptual 5. a ) Why is interaction diagrams used ? Compare and contrast the 7
+different types of interaction diagrams . Explain how code can be generated from collaboration diagram
+b ) 7
+1
+8
+N
+CS
+CamScanner
+
+
+Page 8
+
+and design class diagram . Justify with necessary examples Bachelor Design and Modelling\n. Case Study BE Oriented answers in t\nIn hospital a patient goes to registration machine he Object anes UML their\npress the on button then the screen opens . He enters patient id number for through required to give\n. He books the doctor for his checkup . He checks the category\nof disease from given list , then he chooses doctor's name from list , he are full marks .\ngiven doctors name enters time he wants to meet with doctor he need to enters es indicate practicable .\n. For this registration the amount , if the amount digit is ok registration and the margin\nit accepts the prints the registration slip , otherwise it will give signal of alarm of in sufficient res in questions . F\na amount . Now draw a use case model ( no description interaction tall the and disciplines of\ninformation . required ) , Domain model , diagrams and design class diagram from these 7. Explain different phases important components of a u\nWrite short notes on : ( Any two What are the diagram for a syste\n) a ) Exceptions and case\nError Handling b ) Programming importance of use methods of ide\nand development process c ) Representation 2x What are the different and real use\nof system behavior . xfcifference between essential essenti\nPOKHARA UNIVERSITY Semester Spring\nAssociations and attributes are agree or disagree ? Just\nmodel . Do you collaboration diagram ?\nWhat is a conditions in a collabo\nexclusive\nexample . be\nWhat do you mean by system '\nguidelines for preparing a contract\n2 ) What are the GRASP patterns ?\napply the creator pattern durin\nb ) Why is class diagram impor\ndiagram with a necessary fig\ndiagram during analysis phase\na ) What is a Contract ? How\nessential parts of a contract ?\nb ) What do you understand\nwith an example .\n6. a ) Convert the given Desigr\ncan choose any language\n2\nCS\nCamScanner
+
+
+Page 9
+
+POKHARA UNIVERSITY
+he press the on 15 Level : Bachelor Semester Spring = Year Full Marks : 100
+ent id number . He books of disease Programme : BE : 3hrs . Time Course : Object Oriented Design and Modelling
+cape checks from doctor's name from given doctors name through UML Candidates are required to give their answers in their own words as far
+the category
+t , if the amount digit accepts the slip otherwise it will give as practicable The figures in the margin indicate full marks .
+t is ok it .
+gistration , a amount . questions .
+o description required ) , Domain model , design class diagram from Rational Unified Process ? 6
+these a ) Explain different phases and disciplines of
+: 2014
+Attempt all the
+Ling 2x5 What are the different methods of identifying use cases ? List the 8
+ent process difference between essential and real use cases with suitable examples
+avior . b ) Associations and attributes are essential components of a conceptual
+b ) What are the important components of a use case model ? Illustrate the 9
+importance of use case diagram for a system being developed .
+model . Do you agree or disagree ? Justify your opinion .
+7
+7 a ) What is a collaboration diagram ? How do we represent mutually
+exclusive conditions in a collaboration diagram ? Justify with an
+example .
+a ) What are the GRASP patterns ? Explain with an example how you g
+apply the creator pattern during object design .
+b ) What do you mean by system behaviour ? List its types . Explain the 8
+guidelines for preparing a contract .
+b ) Why is class diagram important ? Explain the structure of a class 7
+diagram with a necessary figure . Also list the difference of a Class
+diagram during analysis phase and design phase .
+a ) What is a Contract ? How do you derive contract ? What are the 8
+essential parts of a contract ? Explain its role taking an example .
+b ) What do you understand by updating of class definitions ? Illustrate 7
+with an example .
+a ) Convert the given Design Class Diagram into an equivalent code . ( you 10
+can choose any language like Java , C ++ , etc ) ..
+F G H
+CS
+CamScanner
+
+
+Page 10
+
+Shape << lnterface + main Bachelor Semester
+>>>> vold
+draw : void Level : Programme : BE Oriented Design and Mo
+Implements acks Course : Object UML
+Implement Rectangle Endle ShopeMaker -circle creates Through
+Square : Shape rectangle : Shape -square are required to give their
++ drawi ) ; void : Shape Candidates
++ draw ] : wold + draw + practicable .
+) : void ShapeMaker ] + as indicate fu
+Facade PatternDemo POKHARA : Fa
+drawCircle ( ) : vold + drawRectangle What do you bj The figures in the margin
+( ) : void + drawSquare understand by three architecture can all the questions .
+) i vold tier architecture be deployed 7. Write Attempt
+? How this in various configurations ? short notes on ( Any Two ) a ) Visibility
+b ) Domain Analysis You are developing a system to hand checkout books and
+c ) Exceptions and 5 : members may must keep track of which books :
+error handling checked out .
+UNIVE !
+Each book and video has a uniqu
+to index that book or video , a cl
+library , checked out , checked "
+number . A clerk may also check author
+or on a video by supplyi
+Each library member has a libr
+number and the item number
+borrower has no overdue bor
+the borrower . The conditions
+books and three days for vid
+For the above case study :
+a ) List use cases and
+b ) Identify conceptur
+c ) Create a sequen a book 01
+borrow workflows
+2. a ) Explain What do you mer
+b )
+with an example .
+3. a ) What is a cont
+suitable e
+dia
+CS
+CamScanner
+
+
+Page 11
+
+POKHARA UNIVERSITY : 2015 main : void
+old ShapeMaker ( ) + drawCircle Candidates are required to give their answers in their
+creates circle : Shape rectangle Course : Object Oriented Design and Modelling : 3hrs . Time
+acks Level : Bachelor Semester : Fall Year Full Marks : 100
+Shape Maker Programme : BE Pass Marks : 45
+: Shape -square : Shape Through UML
++ own words as far
+( ) : void + drawRectangle as practicable .
+) : vod + drawSquare ) : void The figures in the margin indicate full marks .
+tier architecture ? Attempt all the questions .
+How this onfigurations ? Library 15
+5 members may checkout books must keep track of which books and videos each member currently has
+You are developing a system to handle checkout duties at a library . and videos from the library . The system
+checked out .
+Each book and video has a unique item number that is used by the system
+to index that book or video , a clerk may check the status of a book ( in the
+library , checked out , checked out and overdue ) by supplying the item
+number . A clerk may also check either on a book by supplying the title and author
+or on a video by supplying only the title .
+Each library member has a library card that includes his or her membership
+number and the item number of the book or videos ( in total ) , and if the
+borrower has no overdue books or videos , the book or video is loaned to
+the borrower . The conditions of the loan include a due date ( two
+weeks for books and three days for videotapes . ) .
+For the above case study :
+a ) List use cases and prepare use case diagram
+. b ) Identify conceptual classes
+, and prepare a domain model . c ) Create a
+sequence diagram when a library member borrow a book
+wants to or videotape . 2. a ) Explain workflows
+of iterative software development model b ) What do you mean
+. 7 by object oriented development with an example
+cycle ? Explain . 8 3. a ) What is a contract ? Explain
+different parts of the contract with suitable example . How do the contracts help diagram
+in devising collaboration ? 00
+]
+CS
+CamScanner
+
+
+Page 12
+
+POK b ) What is attribute visibility how it is visibility
+different from parameter , explain with example . a ) Define
+example 5 ) Explain conceptual class . Explain the role of domain modelling Level : Bachelor BE
+the use of state chart diagram condition with an Programme : Object Oriented pri
+? Show mutual exclusive in Collaboration diagram & 5. a ) How DCD Course : through UML
+with example is different from Domain issues
+7 models ? Explain in DCD . b ) Define
+method name GRASP . Explain the purpose example ? Candidates are required to practicable .
+7 of Creator 6. a ) Explain as
+pattern with an steps of mapping design to b ) Convert the The figures in the margin
+8 code with an example DCD to equivalent Attempt all the questions
+. Flight nightNumber.Integer source code ( java / c ++
+departureTime Date 3 ) . flighturation You are developing a syste
+7 Plane airPlane Minutes departingAirport
+Type : String maximumSpeed String angirport : String check store . Sales boy may
+0.1 : MPH maximumDistance assigned delay
+: Miles maximumSeats Flight Assigned Plan light numberofMinutes : Minutes getArrival Time must keep track
+: Integer ) ( Date of which
+7. Write short getRemainingSeats ) : Integer Each category of book an
+notes on : ( Any two a ) Sequence the system to index that
+) diagram b ) High
+coupling pattern c ) UMI . multiple status of a book ( in stoc
+perspectives also check either on a b 2x5 by supplying
+only the tit
+For the above case study
+2 Vudes choosing use
+a ) List use cases and ]
+b ) Write down any o
+diagram . 2. Case
+Study Consider
+an online tra
+profile with a username
+time if the user wants .
+password . After l
+rent flights . The us a
+draw a
+CS
+CamScanner
+
+
+Page 13
+
+rameter POKHARA UNIVERSITY
+delling with an Level : Bachelor Semester : Fall Year : 2016
+chat diagram diagram with example Course : Object Oriented programming and Design through UML Time : 3hrs .
+? Show mutual exclusive Pass Marks : 45
+wann from Domain models ? Explain method name Candidates are required to give their answers in their own words as far
+Explain the purpose pattern with an as The figures in the margin indicate full marks .
+of Creator practicable .
+ping design to code with an example . quivalent source code ( java / c ++ - ) . Attempt all the questions .
+0. " 0.1 maximumSpeed : MPH maximumDistance store . Sales boy may checkout
+and Fight AnnaPlan maximumSeats : Integer must keep track of which books and videos have been sold out .
+Plane airPlane Type You are developing a system to handle checkout duties at a book and video
+: String books and videos from the store . The system
+: Miles
+getRemainingSoats ] : Integer Each category of book and video has a unique item number that is used by
+2x5 also check either on a book by supplying the only the title .
+8
+8
+Programme : BE Full Marks : 100
+the system to index that specific book or video , a ' sales boy may check the
+status of a book ( in stock or not ) by supplying the item number . He may
+title and author or on a video
+by supplying
+For the above case study :
+a ) List use cases and prepare use case diagram .
+b ) Write down any one essential use case text from the above use case 7
+diagram .
+2. Case Study 15
+Consider an online travel agency system . A new user can create a new
+profile with a username and a password . This profile can be changed at any
+time if the user wants . The user logs to the system using his / her username
+and password . After logging into the system , the user inquires
+about different flights . The user can book
+, change or cancel a flight reservation . This includes
+choosing a payment method , and making a payment
+. a ) Now draw a use case model ( no description
+required ) , Domain model ,
+F H J K L
+CS CamScanner
+
+
+Page 14
+
+POKE
+3. a ) How are system event and system operation important . Assume the room online and draw a SSD for it . 7 Level : Programme : BE Object Oriented D
+interaction diagrams and design class diagram from these information . Bachelor
+scenario of reserving a hotel essential ? Assume the scenario of reserving a hotel Course : through UML
+b ) Why are contracts for it . 8
+room online and draw a contract required
+b ) What are the GRASP patterns ? Explain with an example how you 7 as practicable figures in the mar
+5. a ) What is visibility ? Describe the use of visibility among classes while 8 The Attempt all the questi
+designing class diagram . role o
+apply the creator pattern during object design .
+What are interaction diagrams ? What are its types ? How is sequence 8 Candidates are
+diagram similar to collaboration diagram ? .
+b ) How procedure Analysis and Design is different from OOAD , 7 a ) What is the
+different notations
+6. a ) Describe the importance of interaction diagrams for developing AD , ther
+methods during coding . 5 b ) In structural , behav
+b ) Str
+Crde creates Rectangle -rectangle Shape a ) Prepare a br
+Implements ShapeMaker provision integrity and stan
+FacadePatternDemo 2. Imagine you are hi Exam
++ main ( ) : void Shape University four - year / 8 - semeste
+<< Interface >> exams .
++ draw ( ) : vold as college of doub
+Implement -circle : Shape
+Square -square : Shape document .
++ draw ) : void + draw ( ) : void + ShapeMaker ( ) ) Draw the
++ draw ( ) : void + drawOrcle ( ) : vold b
+asks
++ drawRectangle ( ) : void diagrams .
++ drawSquare ) : void For the given diagram , develop What is th
+the equivalent code in any high level programming language 3. a ) behavior of
+. 7. Write short notes types of
+on : ( Any two ) a ) 00 business
+Development Cycle b ) Associations 2x5 brief , w
+and Attributes c ) Patterns
+10 different types o
+2
+CS CamScanner
+
+
+Page 15
+
+POKHARA UNIVERSITY
+hotel Level : Bachelor Semester : Spring Year : 2016- Full Marks : 100
+is sequence Programme : BE Pass Marks : 45 Course : Object Oriented Design and Modelling
+bin with an example how you Candidates are required to give their answers in their own words as far
+ject design . visibility among classes while as practicable .
+e of 8 The figures in the margin indicate full marks .
+sign is different from OOAD , 7 Attempt all the questions .
+tion diagrams for developing 1. a ) What is the role of notations different notations used in UML with brief notes of each .
+5 b ) In OOAD , there are various types of models , like conceptual , 3 + 4
+creates -circle : Shape -rectangle Shape a ) Prepare a brief SRS document of PU - EMS with all details as per SRS
+FacadePattern Demo different types of model ? Explain with illustrative examples . 2. Imagine you are hired as IT consultant for the task of building Pokhara 8 + 7
++ main ( ) : void University Exam Management System ( PU - EMS ) , considering your university board exam as well
+tasks as college exams . As a domain study , you have found out there is the
+ShapeMaker provision of double checking of all the questions and copies to ensure the
+-square : Shape document .
++ Shape Maker ( ) b ) Draw the Use - case diagrams for this system with proper stick
++ drawOrcle ( ) : vold
++ drawRectangle ( ) : void diagrams .
++ drawSquare ) : void 3. a ) What is the role of constraint specifications in defining
+t code in any high level behavior model diagram ? The model below depicts about possible types of accounts within
+2x5 the portfolio sub - head in any banking business domain . Identify the constraints highlighted
+10 structural , behavioural , etc. What is the significance of these many
+Time : 3hrs . through UML
+in a modelling tool ? Illustrate any five 3 + 5
+four - year / 8 - semester exposure of the overall
+integrity and standard of all of the processes .
+the systems 2 + 5
+and explain in brief , what they mean .
+1
+CS CamScanner
+
+
+Page 16
+
+Portfollo Cours
+Shool
+has 1 ..
+Department
+Corporation attends
+( secure ) for the
+BankAccount ( or ) Student diagram Ques
+Person class developed for
+gender : ( female , male ) | 0..1 Prepare the
+wife already followings : versus Y - a
+0..1 have diagra
+husband epare the right ) )
+( self.wife.gender = female and axis ( Left - Interaction in Ad
+self.husband.gender = male } X - Sequence ( Joining
+b ) List out all the possible association types , which exist in UML based 8 versus behavioral
+Object Oriented design , with sample drawings of cach type with clear Forking Structural versus Any two
+labelling of association , attribute , naming , and adornments . on : ( in Q
+4. a ) The model depicts the online order processing system as illustrated in 2+ Write short notes Engineering
+below diagram . Explain in detail of the diagram type with every Reverse CRC
+symbols being used and semantics of this diagram . a ) Analysis using handling thro
+[32mOrder Taker Credit CardAgent OrderFufillment : Billing Agent b ) c ) Exception
+submitOrder
+processCard
+1 ...
+placeOrder
+IriggerBill
+acknowledgeOrder
+See Credit Failure
+for a variation of this b )
+scenario . Present the mapping process
+for the above model using object - oriented based pseudo - codes 8
+for capturing all important aspects of the model diagram . 5.
+a ) Prepare sample codes that should associations
+cover all of the classes , existing and other details depicted 8
+through following model diagram .
+2
+CS CamScanner
+
+
+Page 17
+
+son member assigned To
+male , male ) 0..1
+0..1 wife attends teaches Instructor
+sband Student Courso 1 .. "
+0..1 1 . chairperson
+ife.gender = female and usband.gender b ) Prepare the class diagram for the SRS and Use case diagrams that you 7
+= male ] hich exist have already developed for Question No. 2 system .
+in UML based 5 of cach 6. Compare the followings : Information ordering in 3 × 5
+type with clear adornments 8 a ) X - axis ( Left - right ) versus Y - axis ( top - down ) Sequence ( Interaction ) diagram
+.
+system as illustrated in 2 + 5 b ) Forking versus Joining in Activity diagram
+gram type with every c ) Structural versus behavioral patterns in design reuse
+am . 7. Write short notes on : ( Any two ) 2x5
+llment BillingAgent b ) Analysis using CRC c ) Exception handling
+riggerBill
+Sea Credit Failure variation of this
+for a
+Scenario . 8
+ove model using aspects
+Il important
+e classes , existing following model
+8
+0..1
+has School Department
+1 .. "
+a ) Reverse Engineering in OOD
+through UML
+3
+CS CamScanner
+
+
+Page 18
+
+POKHARA UNIVERSITY
+Level : Bachelor Semester : Fall Year Full Marks : 100
+Programme : BE Oriented Design and Modeling Pass Marks : 45
+Course : Object Time : 3hrs .
+through UML
+2017
+Candidates are required to give their answers in their own words as far as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+1. a ) Explain the difference between Object Oriented Analysis and Object Oriented Design with an example ?
+b ) Explain the role of UML model in software design ? Explain types of
+use cases with examples . incremental and iterative software 7
+2. a ) Explain difference between
+development model . Explain the purpose of 8
+7
+b ) Explain system event and system response ?
+SSD with an example .
+3. a ) Explain the guidelines for preparing a contract with its purpose . 7
+b ) What is Global visibility how it is different from parameter visibility , 8
+explain with example .
+4. a ) Define conceptual class . Explain the role of domain modeling with an 8
+example .
+b ) Explain the use of state chart diagram ? Show mutual exclusive 7
+condition in Collaboration diagram with example .
+5. a ) How DCD is different from Domain models ? Explain method name 7
+issues in DCD .
+b ) Define GRASP . Explain the purpose of Controller pattern with an 8
+example ?
+6. CASE STUDY : Draw equivalent use case , sequence diagram and class
+diagram for the given scenario below . 15
+A customer wants to draw money from his bank account . He enters his
+card into an ATM ( automated teller machine ) . The ATM machine prompts
+" Enter PIN " . The customer enters his PIN The ATM ( internally
+.
+) retrieves the bank account number from the card The ATM
+. encrypts the
+PIN and
+CS CamScanner
+
+

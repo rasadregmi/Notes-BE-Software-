@@ -1,0 +1,240 @@
+Page 1
+
+POKHARA UNIVERSITY
+Level : Bachelor Semester : Fall Year : 2018
+Programme : BE Course Full Marks : 100
+: System Programming Pass Marks : 45
+1. a ) What is system software ? Explain its importance . 5
+Time : 3hrs .
+Candidates are required to give their answers in their own words as far
+as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+b ) Describe the architecture of SIC / XE machine . 5
+c ) Differentiate RISC and CISC architectures . 5
+2. a ) How forward references are handled in one pass assembler ? 5
+b ) Consider the following assembly language program . 10
+Line Symbol Opcode Exp
+10 Test START 0
+20 FIRST LDA # 5
+30 STX THREE C'EOF
+40 LDX = '
+50 + LDS THREE X
+60 ADDR A , RESULT , X
+70 + STA
+80 RESULT RESW 1
+90 THREE RESW 1 FIRST
+100 END
+Mnemonic Opcode
+LDA 00
+STX 10
+LDX 04
+LDS 6c
+ADDR 90
+STA OC
+i . Fill column for location counter
+!!! Create object Show all data structures
+iv . Create Object Program .
+code column with object codes
+a ) Write about blocks and control sections . 5
+program
+CS CamScanner
+
+
+Page 2
+
+b ) Consider the following assembly language program .
+Line Symbol Opcode Exp
+10 SUM START 5000
+20 FIRST LDX ZERO ZERO
+30 LDA TABLE , X
+40 LOOP ADD COUNT
+50 TIX LOOP
+60 JLT TOTAL
+70 STA
+80 RSUB
+90 TABLE RESW 2000
+100 COUNT RESW I
+110 ZERO WORD 0
+120 TOTAL RESW 1
+130 END FIRST
+Mnemonic Opcode
+LDA 00
+ADD 18
+LDX 04
+STA OC
+JLT 38
+TIX 2C
+RSUB 4C
+i . Fill column for location counter
+ii . Create object code column with object codes
+iji . Create Object code file .
+iv . Load the program in memory
+4. a ) What is macro time variable ? How macro processor manages value of
+macro time variable ?
+b ) Explain conditional macro expansion .
+c ) Consider the macro definition given below and show macro expansion for 5
+the macro call statement " Print 54 F2 " . Show all data structures used by
+macro processor clearly .
+Print MACRO & Ch , & Od
+$ Repeat TD & Od
+JEQ $ Repeat
+LDCH # & Ch
+WD & Od
+MEND
+2
+10
+CS CamScanner
+
+
+Page 3
+
+7 Write short notes on : ( Any two ) a ) Dynamic Linking 2 × 5
+5. a ) ) Explain the Object diagram for assembler with diagram . What is object oriented programming
+b ? Write about principles of 7
+6. a ) Define two different development processes that Booch suggested . What is Absolute Loader ? Write its 8
+object oriented programming . 8
+b ) algorithm .
+b ) Recursive microprocessor
+c ) Simple Bootstrap Loader
+7
+CS CamScanner
+
+
+Page 4
+
+POKHARA UNIVERSITY
+1. a ) What is system software ? Explain its importance . b ) Describe the in
+Level : Bachelor
+Programme : BE Course Semester : Spring Year : 2017
+: System Programming Full Marks : 100
+Pass Marks : 45
+Time : 3hrs .
+Candidates are required to give their answers in their
+own words as far as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+architectures of SIC and SIC / XE machines . 10
+2. a ) What is the advantage of relative addressing mode over absolute addressing mode ? 5
+b ) Consider the following assembly language program . 10
+Line Symbol Opcode Exp
+10 Test START 0 EXTDEF Odev
+20 EXTREF Ch , Phash
+30 LDA = C * # *
+40 Begin + STA Ch
+50 + JSUB Phash
+60 LTORG
+70 BYTE X'06 '
+80 Odev CSECT
+90 Phash EXTDEF Ch
+100 EXTREF Odev Odev
+110 + TD Loop
+120 Loop JEQ
+130 LDCH Ch Odey
+140 + WD
+150 RSUB I
+160 RESB Begin
+170 Ch END
+180
+1
+CS CamScanner
+
+
+Page 5
+
+Mnemonic Opcode
+JEQ ➢ རྱ
+JSUB 48
+LDA དྱེ 00
+LDCH
+ོ TD EO
+྾ OC STA
+WD DC
+RSUB 4C
+i . Fill column for location counter
+ii . Create object code column with object codes
+iii . Show all data structures
+Create Object code file iv .
+c ) What is Literal ? Explain its handling during pass 1 and pass 2 . 5
+3. a ) What is loader ? Differentiate linking loader from linkage editors . 2 + 5
+b ) What is relocation ? How relocation is carried out in a loader ? 8
+4. a ) What is macro time variable ? How macro processor manages value of 5
+b ) Write about concatenation of macro parameters with example . 5
+macro time variable ?
+c ) Consider the macro definition given below and show macro expansion 5
+for the macro call statement " Print 54 F2 " . Show all data structures
+used by macro processor clearly .
+Print MACRO & Ch , & Od
+$ Repeat TD & Od
+JEQ $ Repeat
+LDCH # & Ch
+WD & Od
+MEND
+5. a ) Explain the object diagram for assembler with diagram . 82
+b ) What is object oriented programming ? Write about principles of 7
+object oriented programming .
+6. a ) Define Booch's Micro and Macro process activities . 5
+b ) Explain load and go assembler . 5
+7. Write short notes on : ( Any two ) 2 × 5
+a ) Absolute Loader and its algorithm
+Conditional Macro Expansion b )
+c ) Dynamic Linking
+2
+CS CamScanner
+
+
+Page 6
+
+POKHARA UNIVERSITY
+5 system software . Briefly explain machine dependent and
+Level : Bachelor Programme : BE Full Marks : 100 Pass Marks : 45
+Semester : Fall Year : 2016
+Course : System Programming Time : 3hrs .
+Candidates are required to...
+
+
+Page 7
+
+generated and why it is important ?
+4. a ) What is macro time variable ? How macro processor manages value
+of macro time variable ?
+b ) Write about concatenation of macro parameters with example .
+c ) Consider the macro definition given below and show macro expansion
+for the macro call statement " Print 54 F2 " . Show all data structures
+used by macro processor clearly .
+Print & Ch , & Od MACRO
+$ Repeat TD & Od
+JEQ $ Repeat
+LDCH # & Ch
+WD & Od
+5. a ) Define object oriented programming and write about its principies . 6
+b ) Show the relationship between classes with example in Object
+6. a ) Define Booch's Micro and Macro process activities .
+MEND
+Oriented Programming . Also show the Object diagram for assembler .
+b ) Briefly explain load and go assembler .
+7. Write short notes on : ( Any two )
+a ) Simple Bootstrap Loader
+b ) MASM macro processor
+c ) MS - DOS linker
+2
+CS CamScanner
+
+
+Page 8
+
+POKHARA UNIVERSITY\nLevel : Bachelor Semester\nProgramme : BE : Fall Year : 2015 Full Marks Course\n: 100 : System Programming\nPass Marks : 45\nTime : 3hrs .\nCandidates are required to give their answers in their own words as far\nas practicable .\nThe figures in the margin indicate full marks .\nAttempt all the questions .\na ) Explain the architecture of SIC / XE machine . 10\nb ) Write a SIC Program to find the sum of two numbers and save the 5\nresult in Sum variable .\na ) How does machine - dependent assembler distinguish by machine- 6\nindependent assembler ? Write and explain about one pass assembler\nb ) Generate the object code and necessary data structure for each 9\nstatement in the following code .\nSTID START 2000\nINPOUT LDA ZEPO Mnemonic Opcode\nINLOCP TD INDEV LDA 00\nJEQ INLOGF ID ) EO\nRD INDEV 30\nSTCH DATA JEQ\nOUTLP ID OUIDEV RD D8\nJEC OUTLP STCH 54\nLOCH DATA LDCH 50\nWC OUTBEV DC\nWD\nZERO 7'0 ' BYTE\nINDEV BYTE X'Fi 
+
+
+Page 9
+
+6. a ) Define object diagram . Identify possible objects and draw the object assembler . าdiagram for two pass
+b ) What do you mean by object oriented designing ? Briefly explain the 8
+two different development processes suggested by Booch .
+7. Write short notes on : ( Any two ) 2 × 5
+a ) MASM Assembler
+b ) SUNOS linker
+c ) ANSI C macro Language
+CS CamScanner
+
+

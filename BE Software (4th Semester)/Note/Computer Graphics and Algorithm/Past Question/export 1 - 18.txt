@@ -1,0 +1,473 @@
+Page 1
+
+POKHARA UNIVERSITY CamScanner
+evel : Bachelor rogramme : BE ⚫ Semester : Spring Year : 2012 Full Marks : 100
+Course : Computer Graphics Pass Marks : 45 Time : 3hrs .
+Candidates practicable . are required to give their answers in their own words as far
+as figures in the margin indicate full marks
+The .
+Attempt all the questions .
+Explain the need and use of graphics in the field of IT . 7
+What is Video Controller ? Explain the basic video - controller refresh 8
+operations with proper block diagram .
+1 Enlist different types of input devices . Describe touch panel as an 7
+input device . DO 8
+Derive the Bresenham's line algorithm for | m | > 1 .
+OR
+Clip the line PIP2 with PI ( 0,120 ) and P2 ( 130,5 ) using Cohen-
+Sutherland Line Algorithm . Given that rectangular window ABCD
+has end - points A ( 10,100 ) , B ( 150,100 ) , C ( 150,10 ) and ( 10,10 ) .
+a ) Digitize a standard form circle using midpoint algorithm having radius 7
+of 10 unit .
+b ) Explain transformation of 2D object to screen viewing with matrix 8
+derivation .
+OR
+Calculate viewing transformation matrix with given information :
+given triangle with sides A ( 5,5 ) B ( 15,5 ) C ( 10,10 ) , given window
+coordinate ( 7,4 ) ( 13,4 ) ( 13,8 ) , ( 7,8 ) and view port location is
+( 17,7 ) ( 18,8 ) ( 17,8 ) ?
+a ) Scale the triangle with vertices A ( 0 , 0 ) , B ( 1 , 1 ) , C ( 5 , 2 ) to half its 8
+size while keeping B ( 1 , 1 ) fixed . b )
+Briefly explain the different graphics file format . a ) What do you mean by projection ? Differentiate between parallel and 7
+perspective projection .
+7
+CS
+
+
+Page 2
+
+b ) Write down the Drawbacks of Backface Detection . Explain Z - buffer Bachelor
+Algortim . Level : : BE Grap !
+6. a ) Explain Gouraud shading method . How is it different from Phong Programme Computer
+shading method ? Course :
+h ) Explain the things to be considered while developing a project .
+7 . Write short notes on : ( Any iwo ) require
+a ) Differentiate between Raster - Scan and Random - Scan system Candidates are
+. b ) Explain different file formats . practicable .
+c ) Polygon Table . as The figures in the mar
+PO
+Attempt all the questi
+Define Computer
+computer graphics . resolution <
+Define
+scan display and v
+2 ) Consider two rast
+by 1024. How m
+these systems by
+of 60 frames pe
+vstem ?
+scribe how c
+the trian
+equa
+CS
+CamScanner
+
+
+Page 3
+
+Detection . Explain POKHARA Year Full Marks : 100 Semester : Fall : 2013\nZ - buffer is Pass Marks : 45\nng method different from Phong Level : Bachelor : BE Graphics Time : 3hrs .\n. How it\nnsidered while developing a project Programme Course : Computer words far\n. , answers in their own as\n--Scan and Random - Scan system required to give their\n. Candidates are\nUNIVERSITY\nas practicable figures in the margin indicate full marks\n. .\nThe the questions .\nAttempt all major application areas of 8\n) Define Computer graphics . Discuss the computer graphics . raster\n> ) Define resolution & persistence . What is the difference between display and vector scan display ?\nscan raster systems with resolutions of 640 by 840 and 1280 8\n7\n:) Consider two pixels could be accessed per second in each of\nby 1024. How many refreshes the screen at a rate\nthese systems by a display controller that\nof 60 frames per second ? What is the access time per pixel in each\nsystem ?\nb ) Describe how color pixel is displayed in a computer system ? -7\n2 ) Rotate the triangle A ( 2,3 ) , B ( 5,3 ) and C ( 3,1 ) about a fixed point by 8\n30 xb0\nb ) Derive an equation for calculating points of a circle using mid - point 7\nalgorithm .\nOR\nWrite a Code for drawing a full circle points .\na ) Explain the 2D viewing pipeline along with the derivation for the\nwindow to viewport transformation .. 7\nb ) Why we need machine independent graphical language\n? Explain briefly about any two of the graphical file 8\nformats . 5 . a ) What is meant by surface rendering\n? Explain the Gouraud Shading method for surface rendering 7\n. b ) What is projection\n? Derive the expression and matrix representation for perspective\nprojection . 8\n1\n20\nCaps A\nCS CamScanner
+
+
+Page 4
+
+6. a ) Write Z - buffer algorithm for detecting visible surface with its drawback & remedy . el : Bachelor gramme : BE Computer Gr
+b ) What is the significance of making plans for a project ? What things should be considered during the project development ? se :
+Write short notes on : ( Any two ) 7 . 2 >
+a ) Touch screen . are req
+c ) 3D Viewing Pipeline . practicable . the
+b ) Homogeneous Co - ordinates . didates
+e figures in the qu
+Attempt all
+What are com
+them with dia
+On an averag
+the frame bu
+System . If
+access rate
+Explain th
+While sca
+reached t
+with a ex
+a ) Digitize
+Bresenh
+b ) Differe
+transfo
+a ) What
+opera
+b ) Scale
+CS CamScanner
+orig
+P
+
+
+Page 5
+
+6 . surface rendering . a ) What do you mean by hidden
+Course .CS Pass Marks : 45 Time : 3hrs .
+POKHARA UNIVERSITY
+Semester : Spring Year : 2013 Full Marks : 100
+Candidates are required to give their answers in their own words as far practicable .
+as
+The figures in the margin indicate full marks .
+Attempt all the questions .
+What are components that computer graphics consists of ? Explain 8
+them with diagram .
+On an average it takes 200 nano second to access a pixel value from 7
+the frame buffer and glow a phosphor dot on the screen for a Raster
+System . If total resolution of the screen is 1024 x 1024 , will this
+access rate create a flickering effect on the screen ? Illustrate
+2 ) Explain the architecture of raster display with a neat block diagram . we have 8
+b ) While scan converting an ellipse , how do we know that 7
+reached the second region of the first quadrant of the Ellipse ? Explain
+with a expressions .
+a ) Digitize a line with end points A ( 2,10 ) and B ( 5,18 ) using 8
+Bresenham's Line drawing algorithm .
+b ) Differentiate between window port and view port . Derive the 7
+transformation matrix for window to view transformation . port
+a ) What is the significance of Clipping operation ? Explain the Clipping 8
+operation used for clipping lines in 2D .
+b ) Scale a triangle A ( 0,0 ) , B ( 1,1 ) , C ( 3,2 ) by twice its original size , about 7
+origin and about point P ( -1 , -2 ) .
+a ) What do you mean by projection ? Differentiate between parallel and S
+perspective projection with example .
+b ) What do you mean by surface rendering ? Explain Phong Shading 7
+method for
+surface removal ? Discuss Scan Line method for removing 8
+hidden surfaces . b ) What are the
+steps to be followed for project development ? What is 7
+1
+Lope
+Lock
+CS CamScanner
+
+
+Page 6
+
+significance of making plans for a project ?
+7. Write short notes on : ( Any two )
+a ) Light Pen
+b ) Cohen - Sutherland Line Clipping
+c ) Bezier Curves .
+CS CamScanner
+
+
+Page 7
+
+oject ? POKHARA UNIVERSITY
+Level : Bachelor Programme : BE Computer Graphics Marks : 100 Pass Marks : 45
+Courses Time : 3hrs .
+Semester : Fall Year : 2014
+Full
+Candidates are required to give their answers in their own words as far margin indicate full marks practicable .
+The figures Amempt all the questions .
+in the .
+Discuss the concept of the computer graphics in IT field . Explain the need of GKS . 5 5 เ เ
+Explain the need for machine independent Graphical Language . raster scan display system with vector display เท 5
+Compare scan system with their architectures . co
+along
+What is flat panel display ?. Explain the working principles of LCD 2 + 5
+monitor with figure
+Rasterize the circle of 10 unit radius 00
+Explain boundary fill technique with its algorithm . 7
+OR
+Derive equations for Bresenham's line drawing algorithm for line with 7
+slope ( m ] > 1 .
+Perform a 45 degree rotation of a line A ( 5,3 ) and B ( 10,15 ) about the 8
+origin .
+OR
+Calculate viewing transformation matrix with given information : 8
+given triangle with sides A ( 5,5 ) B ( 15,5 ) C ( 10,10 ) , given window
+coordinate ( 7,4 ) ( 13,4 ) ( 13,8 ) , ( 7,8 ) and view port location is
+7 What is clipping ? Explain in detail about Sutherland - Hodgeman
+( 17,7 ) ( 18,7 ) ( 18,8 ) ( 17,8 ) ?
+polygon clipping algorithm .
+со Derive a transformation matrix due to orthographic and oblique 8
+parallel projection .
+7 b ) Derive an matrix for cubic Bezier curve formation .
+2 ) Compare object space method with image space method Explain scan 4 + 4
+1
+S D F H
+CS CamScanner
+
+
+Page 8
+
+line algorithm for detecting visible surfaces with suitable figure
+. b ) Explain the Constant Gouraud and Phong shading models
+7. Write short notes on : ( Any two )
+a ) Scan line method
+b ) A- Buffer algorithm
+c ) Project development
+CS CamScanner
+
+
+Page 9
+
+POKHARA UNIVERSITY : 2014
+Level : Bachelor Programme : BE Semester Full Pass Marks : 45
+Course : Computer Graphics Time : 3hrs
+Candidates are required to give their answers in their own words practicable .
+: Spring Year Marks : 100
+.
+as far
+as in the margin indicate full marks .
+The figures questions .
+Attempt all the
+Computer graphics makes easier in working computer fields . Why ? Graphics File formats . " 5 ก เลือก
+Explain different clipping . Hodgeman . บค
+Explain the s of Polygon Explain the working principles of LCD - 7
+What is flat panel display ?
+monitor with figure .
+5
+Describe the raster scan and vector scan system used in computer 8
+graphics with their appropriate system architecture .
+Derive Bresenham's line drawing algorithm for m < 1 . 7
+Digitize one octant of a circle by using midpoint circle generation 8
+algorithm center at ( 10 , 20 ) and radius is 10 .
+Perform a 45 degree rotation of a line A ( 8,3 ) and B ( 14,10 ) : 60 8
+i . About the origin .
+ii . About a fixed point ( 4,2 ) .
+b ) Reflect a rectangle A ( 2,2 ) B ( 5,2 ) C02,4 ) D ( 5,4 ) about a line x = y . 7
+a ) What are the issue in 3D that makes it more complex than 2D ? Derive 7
+an equation for 3D translation and reflection .
+b ) Define projection . Derive an equation for the parallel projection . 8 ටො
+a ) Compare object space method with image space method . Explain scan ප 8
+line algorithm for detecting visible surfaces with suitable figure .
+b ) What is diffuse light ? Derive the equations to calculate the intensity of 7
+diffuse reflection .
+Write short notes on : ( Any two ) 2 × 5
+a ) Z - Buffer algorithm .
+b ) RGB color model .
+c ) Open GL .
+1
+CS CamScanner
+
+
+Page 10
+
+POKHARA UNIVERSITY
+Bachelor Semester : Fall Full Marks : 100
+Course : BE Graphics Pass Marks : 45 3hrs .
+Year : 2015
+Computer Time :
+Candidates are required to give their answers in their own words as far as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+a ) Give your opinion on why interactive graphics has been able to gain immense amount of popularity in diversified fields like
+such an medicine etc.
+b ) In case of two raster systems with many pixels could be accessed per second in each of
+by 600 , how display controller that refreshes the screen at a rate
+these systems by a What is the access time per pixel in each
+of 75 frames per second ?
+7
+8 2 a ) Differentiate between Random scan display and Raster scan display .
+b ) What is DDA ? Derive the Bresenham's line drawing algorithm for the
+slope greater than one .
+3. a ) Find the raster position along the region 1 of the ellipse path in first 7
+quadrant . The semi major and semi minor axes are 8 & 7 respectively
+and the center is ( 0 , 0 ) .
+b ) Explain Sutherland - Hodgeman ploygon cliping algorithm with 8
+example .
+4. a ) Define window and view port ? Derive the matrix that is responsible
+for placing an object from a window to viewport . 7
+b ) Derive the expression and matrix representation for
+perspective projection . 8
+5. a ) Why is it required to take care of
+issues like removal of hidden surfaces in 3D viewing ? Differentiate 7
+between A Buffer and Depth Sorting Approach for detecting visible
+surfaces in 3D ? b ) Differentiate between 2 - D and
+3 - D graphics ? In graphics which dimensional is more applicant .
+S D FI
+Caps
+Lock N
+8
+8
+U 1
+J
+CS CamScanner
+
+
+Page 11
+
+6. a ) Define lighting model and ambient light Differentiate phong Shading
+and gouraud Shading method .
+b ) How does the Gouraud Shading algorithm interpolate intensities at
+different points of a polygon surface to give a smooth shading effect ?
+What are its drawbacks ?
+Write short notes on : ( Any two ) 7 .
+a ) Color models and its types .
+b ) Back face detection .
+c ) Fractal geomectry method .
+CS CamScanner
+
+
+Page 12
+
+ading effect ? sities POKHARA UNIVERSITY
+Level : Bachelor Semester : Spring : 2015 Year
+Programme : BE Full Marks : 100
+Pass Marks : 45 Course : Computer Graphics
+Time : 3hrs .
+7 b ) Explain the working principle of shadow mask method with a
+Candidates are required to give their answers in their own words us far practicable .
+as
+The figures in the margin indicate full marks .
+Attempt all the questions .
+Why do you think that the use of computer graphics is growing ?
+Explain with suitable examples from various fields .
+diagram .
+a ) How colors are displayed in monitor ? Explain . 5 ) Explain the logic used for drawing lines with positive and negative
+slopes using Bresenham's Line drawing algorithm ? and having radius 8 .
+a ) Digitize a circle centered at ( 100,200 ) ) What will the final coordinates of a triangle with vertices A ( 2,3 ) 7
+b be shifting.ing 8
+B ( 3,3 ) C ( 3,2 ) after it a by 45 degrees in anticlockwise
+direction then down by 3 units and finally enlarging it by
+twice its original size ?
+a ) What is line clipping ? Explain the Cohen Sutherland line clipping 8
+algorithm .
+b ) What role does vanishing point play in perspective projection ? 7
+Explain by deriving equations for Perspective Projection by
+considering a vanishing point .
+8
+5. a ) What is the significance of Homogenous Coordinate ' System ? How 8
+can an object be reflected about an arbitrary plane in 3D ?
+b ) At what time which color models ( RGB and CMYK ) is important . 7
+Explain .
+6. a ) low do the ISM approaches differ from OSM approaches for 8
+detecting visible surfaces in 3D ? Differentiate between Area
+Subdivision Method and Depth Sorting Approach for detecting visible surfaces
+in 3D ?
+1
+CS CamScanner
+
+
+Page 13
+
+b ) Explain the APIs used in OpenGL for rendering Graphical objects . 7
+7. Write short notes on : ( Any two ) 2x
+a ) Open GL
+b ) Flood fill techniques
+c ) Input and Output Devices
+CS CamScanner
+
+
+Page 14
+
+bjects ,\n\nPOKHARA UNIVERSITY 2.5\nLevel : Bachelor Semester : Fall Year : 2016 Marks : 100\nProgramme : BE Course Full Marks : 45\n: Computer Graphics Pass : 3hrs .\nTime\nCandidates are required to give their answers in their own words as far as practicable\n.\nThe figures in the margin indicate full marks .\nAttempt all the questions .\n3 ) \
+
+
+Page 15
+
+5. a ) Differentiate between Image Space Method and Object Space
+Method ? Also write down the Painter's algorithm .
+b ) Write the Z - buffer algorithm for detecting visible surface with its
+drawback and remedy .
+6. a ) Explain the expression used for calculating the intensity of light
+incident on a surface due to Specular reflection ? How is intensity
+interpolated in case of Goroud Shading ?
+7 . Write short notes on : ( Any two ) . 2
+b ) Why is OpenGL considered to be cross language and cross platform
+collection of application programming interfaces for rendering
+objects ? Explain any four OpenGL APIs that you are familiar with .
+a ) Mach Bands
+b ) Orthographic ParaHel Projection
+c ) Color Models
+CS CamScanner
+
+
+Page 16
+
+visible surface
+with ating the intensity eflection POKHARA UNIVERSITY
+of light ? How is Level : Bachelor Programme : BE Semester : Spring Full Marks : 100 Pass Marks : 45
+intensity nguage and interfaces Course : Computer Graphics Time : 3hrs .
+cross platform for Candidates are required to give their answers in their own words as far
+rendering you are familiar with . as practicable . The figures in the margin indicate full marks . सुगम स्टेसनरी सप्लायर्स एण्ड फोटोकपी बालकुमारी , लालतपुर १८४१५ ९९ ५ ९
+Year : 2016
+Attempt all the questions . NCIT College
+a ) Computer graphics has enhanced the quality of work in many areas . statement through a brief discussion on areas of
+Support this graphics . Specify at least one specific
+application of computer
+application . ratio . A laser printer is capable of 8
+Define resolution and image aspect per second at resolution of 600
+printing two Pages ( size 9x11 inch ) per second does such device required ?
+pixels per inch . How many bits
+( Assume 1 pixel = n bits ) ?
+7
+3 ) What is Emmissive display and explain any one with example ? What 7
+are the advantage and disadvantage of LCD display ?
+b ) Derive Bresenham's Line drawing algorithm for slope less than one . 8
+How can this line ( with end points A ( x1 , y1 ) B ( x2 , y2 ) and slope less
+than 1 ) be drawn if the starting point is taken as B ( x2 , y2 ) ?
+a ) What will be the final coordinates of a polygon with vertices A ( 3,4 ) 8
+B ( 5,4 ) C ( 5,2 ) D ( 3,4 ) after it is reflected about a line y = 2x + 1 ? b ) Define
+boundary fill technique ? Differentiate between Bresenham's algorithm 7
+line and DDA line drawing .
+4. a ) Explain the steps of 2 - D viewing pipeline ? How is the complexity in 7
+added in 3 - D viewing process compare to 2 - D viewing process ? b ) Why do we need clipping ?
+Explain Cohen - Sutherland Line Clipping algorithm . 8
+5. a ) What do you mean by perspective projection ? Derive an expression perspective projection of point 7
+b ) Differentiate model and CMY color model ? two graphical file formats . 8
+for finding a onto a plain surface . between RGB color
+Explain any
+CS CamScanner
+
+
+Page 17
+
+6. a ) What is Gouraud shading ? Explain it with an example . What are its drawbacks ?
+b ) Giving the computation of depth value , explain the depth buffer
+algorithm for detecting visible surfaces . What is its drawback ? How is
+it removed ?
+7. Write short notes on : ( Any two )
+a ) Perspective Projection
+b ) openGL
+c ) Homogenous coordinate
+CS CamScanner
+
+
+Page 18
+
+man example UNIVERSITY
+. What POKHARA
+are its h value , explain the Fall : 2017 Year
+depth buffer Faces . What is its drawback Level : Bachelor Semester : Full Marks : 100 Pass Marks : 45
+? How Programme : BE Computer Graphics : 3hrs .
+
+is Course : Time
+Candidates are required to give their answers in their practicable .
+own words as far
+as margin indicate full marks .
+The figures in the questions .
+Attempt all the
+b ) Explain the working principal of LCD and LED . 4 + 4 Explain the techniques of pixel considered as connected ? Write logic 345
+a ) What do you understand by computer graphics ? Mention some of the advantages of computer graphics .
+2 + 5
+a ) draw a circle using midpoint circle algorithm .
+to algorithm predict the pixels on 7
+b ) Using the Bresenham's line drawing
+the line from ( 2,2 ) to ( 12,10 )
+a ) Show that the composition of two successive rotation are additive .. 5
+b ) Derive the composite transformation matrix for reflection of an object 10
+about a line Y = mx + c . Apply the derived matrix for the object A ( 4,2 )
+B ( 7,3 ) C ( 9,2 ) D ( 10,1 ) on to the line y = 3x .
+a ) What are the issue in 3D that makes it more complex than 2D ? Derive 3 + 4
+an equation for 3D translation and reflection .
+b ) Define Projection . Difference between parallel and perspective 2 + 6
+projection along with an equation .
+a ) Compare object space method with image space method . Explain scan 4 + 4
+line algorithm for detecting visible surfaces with suitable figure .
+b ) What is Specular reflection ? Explain the total intensity due to 2 + 5
+Specular reflection . 6.
+a ) Explain Gouraud Shading and Phong Shading technique in detail with 4 + 4
+their advantage and disadvantage . b ) Define Graphics
+file format . Explain with example , the need for 2 + 5
+machine Independent Graphical Language . 7. Write short notes
+on : ( Any two ) 2x5
+a ) Frame Buffer Organization
+b ) Beizer Curve
+c ) Depth Buffer method
+d ) Cohen - Sutherland
+CS CamScanner
+
+

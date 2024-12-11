@@ -1,0 +1,526 @@
+Page 1
+
+Level : Bachelor POKHARA UNIVERSITY Semester : Fall Year : 2023 Marks : 100 .
+Programme : BE Course Full Pass Marks : 45
+: Analysis and Design of Algorithm : 3hrs .
+1. a ) What is the need for algorithm analysis ? How would you perceive the 7
+Time
+Candidates are required to give their answers in their own words as ) far
+as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+best , worst and average case complexities ? Give an example , along
+with a suitable graph .
+b ) Explain the master's method for solving the recurrence relations . recurrence relations using the master's method . 8
+Solve the following
+i . T ( n ) = 3T ( n / 2 ) + n
+ii . T ( n ) = 27 ( n / 4 ) + √n
+2. a ) Briefly explain the Queue data structure . Write an algorithm to add an 7
+element from the circular queue and compute the complexity of your
+algorithm .
+b ) Briefly explain the binary search tree . Write an algorithm to remove 8
+an element from the binary search tree and compute the complexity of
+your algorithm .
+3. a ) What is the difference between fractional knapsack and 0/1 knapsack . 7
+Consider the following 7 items and the knapsack has a capacity of 15 .
+Find an optimal solution using fractional knapsack .
+Object ( O ) 1 2 3 4 5 6 7
+Profits ( P ) 10 5 15 7 6 18 3
+Weights ( w ) 2 3 5 7 1 4 1
+b ) Consider the set of given jobs as shown . Find a sequence of jobs ,
+which will give maximum profit .
+Jobs J1 J2 J3 J4 J5 J6
+Deadlines 5 3 3 2 4 2
+8 Profits 200 180 190 300 120
+100
+Page 1 of 2
+CS CamScanner
+
+
+Page 2
+
+4. a ) What is the real - life application of tree vertex splitting problem ? For 8 7
+5 , add a booster to the following tree .
+8 b ) Explain the optimal merge pattern algorithm used for merging multiple sorted
+8 10
+sequences . How does it minimize the total number of
+comparisons and improve efficiency ?
+5. a ) Discuss the similarities and differences between divide and conquer , 7
+greedy method and dynamic programming . How do these approaches
+differ in their problem - solving strategies and efficiency ?
+b ) Explain " Principle of Optimality " in dynamic programming Let 8
+X - moon and Y = spoon . Find the minimum cost required to transform
+X into Y , if each insertion and deletion takes 1 unit and change takes 2
+units of time .
+6. a ) Design a three - stage system with device types D1 , D2 and D3 . The be S
+costs are $ 30 , $ 15 , and $ 20 respectively . The cost of the system is to 0.9 , 0.8 , 0.5
+no more than $ 105 . The reliability of each device is
+respectively connected component of the graph .
+7 . Write short notes on : ( Any two )
+b ) Define the articulation point and bi - biconnected components in a graph
+Write an algorithm to determine
+with a suitable example . 2 × 5
+a ) Graph Coloring Problem
+b ) Sum of subset problem
+c ) Strassen's Matrix Multiplication
+CS CamScanner
+
+
+Page 3
+
+7 What are the measures that we use to measure the efficiency of an
+Level : Bachelor Programme : BE Full Marks : 100
+POKHARA UNIVERSITY
+Semester : Spring Year : 2023
+Course : Analysis Design Time : 3hrs .
+and of Algorithm Pass Marks : 45
+Candidates are required to give their answers in their own words as far practicable .
+as figures in the margin indicate full marks
+The . questions .
+Attempt all the
+algorithm ? Write an algorithm to find the largest number from an
+array of numbers and discuss its best and worst case .
+b ) Briefly explain the binary search tree . Write an algorithm to add an 8 00
+element from the binary search tree and compute the complexity of
+your algorithm .
+a ) Briefly explain a circular queue . Write an algorithm to add and 7
+remove an element from the circular queue and compute the
+complexity of your algorithm .
+b ) Consider the following tasks with their deadlines and profits . 8
+Schedule the tasks in such a way that they produce maximum profit
+after being executed -
+
+S. No. 1 2 3 4 5
+Jobs J1 J2 J3 J4 J5
+Deadlines 2 2 1 دی 3 4
+Profits 20 60 40 100 80
+3. a ) What is the difference between a fractional knapsack and a 0/1 knapsack ? Consider the following 5 items and the knapsack has a 7
+capacity of 60. Find an optimal solution to the knapsack problem .
+
+Objects 11 12 13 14 15
+Profits 30 20 100 90 90 160
+Weights 5 10 20 30 30 40 40
+1
+CS CamScanner
+
+
+Page 4
+
+b ) Write an algorithm elements among n elements and analyze its complexity .
+to find minimum and maximum
+a ) Compare divide dynamic programming Backtracking approach of problem solving ? Explain
+and conquer , greedy method ,
+and with
+examples . Principle of Optimality " in dynamic programming
+b ) Explain " . Let and Y - saturday Find the minimum cost
+X - sunday . required to Y if each insertion and deletion takes
+transform X into , 1 unit and units of time .
+change takes 2 binary search ? Using dynamic
+5. a ) What is the optimal tree a approach optimal binary tree for the given values .
+build an
+Keys 10 20 30 40
+Frequency 4 2 6 3
+b ) Define the articulation point and bi - connected component of the graph .
+Write an algorithm to determine biconnected components in a graph
+with a suitable example
+6. a ) What do you mean by graph coloring problem ? How this problem 8
+could be solved with the help of Backtracking algorithm , explain with
+algorithm .
+b ) Find the shortest path in the following multistage graph using dynamic
+programming from vertex S to T
+Stage 2 Stage 3
+3
+Blupe ↑ Stage 4
+10
+Multistage graph 7. Write short notes 2 × 5
+on : ( Any two ) a ) Tree
+vertex Splitting b )
+BFS and DFS
+c ) Hamiltonian Cycle
+2
+10
+CS CamScanner
+
+
+Page 5
+
+Level : Bachelor Programme : BE UNIVERSITY Semester : Fall Year : 2022
+POKHARA
+Course : Analysis and Design of Algorithm Full Marks : 100 Pass Marks : 45
+Time : 3hrs .
+Candidates are required to give their answers in their own words as far practicable .
+as
+The figures in the margin indicate full marks .
+Attempt all the questions .
+Define algorithm . Why is analysis of algorithms necessary ? Explain 8
+asymptotic notations BigO , Big and Big
+b ) Define Binary Search Tree . Write an algorithm to search an element in the binary 7
+search tree and find the time and space complexity of
+your algorithm .
+a ) What is the difference between fractional knapsack and 0/1 knapsack . 8
+Consider the following 7 items and the knapsack has capacity of 15 .
+Find an optimal solution using fractional knapsack .
+Objects 1 2 3 4 5 6 7
+Profits 10 16 5 15 7
+6 18 3
+Weights 2 3 5 7
+7 1 4 1
+b ) Consider the set of given jobs which will give maximum profit
+as shown . Find a sequence of jobs ,
+Jobs J1 2 4 2
+Deadlines S 190 300 120 100
+J2 J3
+J4 J5 J6
+3 3
+200 180 Profits tree vertex splitting problem ? For 8 8
+3. a ) What is the real add booster to the following
+- life application tree .
+of
+==== 5 ,
+1
+CS CamScanner
+
+
+Page 6
+
+8 g 10
+2
+3
+6
+7
+b ) Explain and analyze the Floyd's Warshall algorithm for all pair shortest path problem . Trace the algorithm with suitable example
+4. a ) Find the cost of travelling from vertex one to rest of the vertex for a minimum cost , travelling all the cities . 8 00
+sales man having
+2 35 3
+25 30
+20
+15
+b ) What do you mean by an articulation point in a network ? What is the
+effect of deleting it in communication networks ? When we say that a
+graph is bi - connected . What does it mean ? Explain with a neat
+diagram .
+5. a ) What is the backtracking method for problem solving ? Explain how 7
+you solve the 8 - queen problem using the backtracking method .
+b ) Write an algorithm for finding minimum and maximum elements in array 00 8
+. Also find its complexity .
+6. a ) Write an Algorithm for push and pop operation of stack . Also analyze the complexity 8
+. example .
+b ) Explain Multistage graph problem with suitable 7. Write 7
+short notes on : ( Any two ) 2x5
+a ) String Editing Problem
+b ) Sum of Subset Problem
+c ) BFS and DFS
+7
+CS CamScanner
+
+
+Page 7
+
+POKHARA UNIVERSITY
+Level : Bachelor BE Semester : Spring Year : 2021
+Programme : Full Marks : 100 Course : Analysis and Design of Algorithm .
+Pass Marks : 45
+Time : 3hrs .
+4 . a ) Write an algorithm for quick - sort and trace out the algorithm for the following array A [ ] = { 16,7,15,14,18,25,55,32 } . 8
+Candidates are required to give their answers in their own words as far
+as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+a ) Why do you need the algorithm analysis ? Explain the best , worst and 8
+average case complexities with suitable example .
+by Explain the master method for solving the recurrence relations . Solve
+the following recurrence relations using this method .
+i . T ( n ) = 3T ( n / 2 ) + n
+11. T ( n ) = 2T ( n / 4 ) + √n
+a ) Explain Binary Search Tree ( BST ) ? Write an algorithm to insert an
+element to the binary search tree and find the time complexity of your algorithm
+. structure . Write an algorithm to add and
+b ) Briefly explain the Queue data element from the circular queue and compute the complexity 8
+remove an
+of your algorithm
+4 ) Consider five items along with their respective weights and profit values a )
+Items = < 11 , 12 , 13 , 14 , 15 >
+Weights w < 5 , 10 , 20 , 30 , 40 > 100 , 90 , 160 >
+profit value = < 30 , 20 , capacity W - 60 . Find an optimal solution to the
+The Knapsack has Knapsack Problem
+b ) Explain how you use the divide and conquer approach to solve Strassen's Matrix Multiplication .
+CS CamScanner
+
+
+Page 8
+
+Greedy method ? What shortest path in the following multistage graph using dynamic
+b ) Briefly explain solving is the basic difference programming and
+the dynamic programming for problem between Dynamic
+method
+5. a ) Find the programming from vertex S to T. Stage 3
+Stage 2
+D
+Stage 1
+10 E تنا 2
+10
+Stage 4
+T
+Multistage graph
+b ) Define spanning tree . Generate spanning tree for graph below using both
+BFS and DFS method .
+a
+b e )
+с d
+6. a ) Define articulation
+point and bi - connected component of the graph ? Write the algorithm
+for finding articulation point in the graph with suitable example
+. b ) Explain
+about the complexity with suitable
+classes P , NP and NP complete examples . 7. Write short
+notes on : ( Any two a ) Travelling 2 × 5
+) Salesman Problem b ) Optimal
+Storage on Tapes Problem c ) Graph Colouring
+. Problem
+CS CamScanner
+
+
+Page 9
+
+Level : Bachelor POKHARA UNIVERSITY
+Programme : BE Semester : Fall Course Year : 2021
+: Analysis and Design Pull Marks : 100
+of Algorithm Pass Marks : 45
+Time : 3hrs ,
+Candidates are required to give their answers in their own words as far as practicable
+.
+The figures in the margin indicate full marks
+. Attempt all the questions
+.
+1. a ) What is algorithm analysis ? Why it is necessary to analyze the 8
+algorithm ?
+Input : n
+Output : nth Fibonacci number .
+Algorithm : assume a as first ( previous ) and b as second ( current )
+numbers
+fib ( n )
+{
+a = 0 , b = 1 , f = 1 ;
+for ( i = 2 ; i < = n ; i ++ )
+{
+f = a + b ; a = b ; b = f ;
+}
+return f ;
+} 7
+Compute the Time and space complexity of this algorithm .
+b ) Briefly explain a stack data structure . Write algorithm to add and remove compute the complexity of your algorithm
+an element from the stack and
+2. a ) What do you mean by greedy method of problem solving ? Explain storage on tapes problem . Find the optimal storage of files on
+optimal 12 , 13 ) = ( 5 , 10 , 3 )
+magnetic tape if n = 3 and ( 11 , shown . Find a sequence of jobs , which
+b ) Consider a set of given jobs as will be completed within their deadlines and will give maximum profit .
+Job J1 J2 J3 J4 J5
+1
+CS CamScanner
+
+
+Page 10
+
+Deadline 2 60 100 20 40 20
+1 نيا 3
+2 1
+Profit divide and conquer algorithm for finding minimum
+3. a ) Devise and maximum element among Write recurrence algorithm and give its big - O estimate . 1
+a a set of given elements .
+b ) What are using dynamic programming Algorithm ? Give the recursive definition problem Trace the algorithm for of 8
+the characteristics problem be solved by relation
+of that can for your
+solving 0/1 knapsack w = { 9,7,9,39 \ v = { 5,1,5,3,3 } and knapsack of capacity 8 .
+.
+4. a ) Explain and analyze shortest problem Trace the algorithm with suitable example .
+the Floyd's warshall algorithm for all pair
+path . Generate spanning tree for graph below using
+b ) Define spanning tree . both DFS method .
+BFS and
+a
+b
+C d
+5. a ) What is the Backtracking method of problem solving ? Explain how you
+solve the 8 - queen problem using the backtracking method .
+b ) Define articulation point and bi - connected component of the graph ? 3 in the graph with
+Write the algorithm for finding articulation point suitable example
+. substitution
+6. a ) Solve the following recurrence relation using iterative
+method . T ( n ) = T ( n / 2 ) + n
+b ) Write an algorithm for and find its time complexity .
+merge sort 7.
+Write short notes on : ( Any two )
+a ) Binary search tree
+b ) Graph Colouring Problem
+c ) Quick sort
+CS CamScanner
+
+
+Page 11
+
+POKHARA UNIVERSITY
+Level : Bachelor Semester
+Programme : BE : Fall Year : 2020 Course
+Full Marks : 100 : Analysis and Design of Algorithm
+Pass Marks : 45
+Time : 3hrs .
+Candidates are required to give their answers in their own
+words as far as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+a ) What is algorithm analysis ? Why it is necessary to analyze the 8
+algorithm ? Explain big O , big and big notation for performance
+analysis of algorithm .
+b ) Explain the master method for solving the recurrence relations . Solve 7
+the following recurrence relations using this method .
+i . ) T ( n ) = 3T ( n / 2 ) + n
+ii . ) T ( n ) = 2T ( n / 4 ) + √n
+a ) Briefly explain a stack data structure . Write algorithm to add and and compute the complexity of 8
+remove an element from the stack
+your algorithm . element from a
+b ) Explain a min Heap . Write an algorithm to delete an 7
+min Heap and find its time complexity .
+a ) Write the Iterative algorithm and Divide and conquer algorithm for and MIN finding problem and explain which algorithm is 7
+MAX efficient
+and why ? sort ? In which case randomized quick sort 8
+b ) What is randomized quick is appropriate ? Sort the following sequence of numbers using Quick
+Sort : 15 , 10 , 13 , 9 , 12 , and 17. Find the worst case complexity of quick
+sort .
+a ) What is the basic different between Divide and conquer , Greedy of 7
+method , Dynamic programming and Backtracking approach
+problem solving ? Explain with example . programming Write 8
+Explain the " Principle of Optimality " in dynamic . the problem can be solved
+algorithm and define how multistage graph using dynamic
+programming .
+1
+CS CamScanner
+
+
+Page 12
+
+5. a ) Compare knapsack problem knapsack problem can be solved using dynamic programming 7
+and 0/1 knapsack problem . Explain how
+Compare the solution approach , with problem solved using greedy approach .
+0/1 .
+b ) Explain how can you implement breadth first search using queue ? Write the algorithm for BFS and analyze its time and space 8
+complexity .
+6. a ) Define articulation point and bi - connected component of the graph ? 8
+Write the algorithm for finding articulation point in the graph with
+suitable example .
+b ) What is backtracking technique in problem solving ? Explain how can 7
+you solved 8 - queens problem using backtracking ?
+7. Write short notes on : ( Any two )
+a ) Job sequencing with deadline 2 × 5
+b ) TSP
+c ) Graph colouring problem
+CS CamScanner
+
+
+Page 13
+
+POKHARA UNIVERSITY
+1. a ) What do you mean by performance analysis of algorithms ? Explain 7
+Level : Bachelor
+Programme : BE Semester : Spring Year : 2019 Course
+Full Marks : 100 : Analysis and Design of Algorithm
+Pass Marks : 45
+Time : 3hrs .
+Candidates are required to give their answers in their own words as as practicable
+far .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+space and time complexity of an algorithm using an example .
+b ) Design an algorithm to find all the common elements in two sorted 8
+lists of numbers . For example , for the lists 2 , 5 , 5 , 5 and 2 , 2 , 3 , 5 , 5 ,
+7 , the output should be 2 , 5 , 5. What is the maximum number of
+comparisons your algorithm makes if the lengths of the two given lists
+are m and n , respectively ?
+2. a ) Briefly explain a Queue data structure . Write algorithm to add and 8
+remove an element from the circular queue and compute the
+complexity of your algorithm .
+b ) Define Binary trees . Write algorithm to insert and delete a node in the 7
+binary tree . 8 conquer , greedy method and dynamic
+3. a ) Compare divide and general method of problem solving , in terms of
+programming as
+completeness and optimality . you use divide and conquer approach to solve Strassen's 7
+b ) Explain how
+Matrix Multiplication . Explain how greedy approach is useful to find the solution to 50 8
+4. a ) fractional knapsack problem .
+b ) Explain the " Principle of Optimality " in dynamic programming with suitable chain of 7
+example . 5. a ) Apply Dynamic programming to multiply the following 8
+Inatrices : M1 , M2 , M3 and M4 with respective , dimensions ( 5 x 10 ) ,
+( 10 x 3 ) , ( 3 x 7 ) , ( 7 x 15 ) ? b ) Explain BFS and DFS as Graph Traversal Techniques with examples 7
+and analyze their performance in terms of time , space , completeness and optimality
+. 6. a ) What approximation algorithm ? Write the algorithm 8
+do you mean by vertex cover of a connected graph with example .
+for approximate the
+1
+CS CamScanner
+
+
+Page 14
+
+b ) What is Backtracking method of problem solving ? Explain how solve 8 - queen problem using backtracking method .
+you 1 7. Write short notes on : ( Any two )
+a ) Tree vertex splitting problem 2x5
+b ) TSP
+c ) Hamiltonian Cycle
+CS CamScanner
+
+
+Page 15
+
+Level : Bachelor
+Programme : BE Semester : Fall Year : 2019 Course Full Marks : 100
+1. a ) Differentiate between deterministic and non - deterministic algorithm . 8
+: Analysis and Design of Algorithm
+Pass Marks : 45
+Time : 3hrs .
+Candidates are required to give their answers in their own words as far
+as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+Explain big O , big and 2 notation for performance analysis of
+algorithm
+b ) Explain the recursion tree method for solving the recurrence relations .
+Solve the following recurrence relations using this method . T ( n )
+T ( n / 3 ) + T ( 2n / 3 ) + n
+2. a ) Explain Binary search tree . Write an algorithm to delete an element
+from BST and find its time complexity .
+b ) Briefly explain a stack data structure . Write algorithm to add and 8
+remove an element from the stack and compute the complexity of
+your algorithm .
+3 a a ) Write an algorithm for merge - sort and find its time complexity . Trace
+out the algorithm for the following array A [ ] -
+16,7,15,14,18,25,55,32 } .
+b ) Explain binary search technique using divide and conquer method of
+problem solving and analyze its time complexity .
+a ) Explain Strassen's algorithm for matrix multiplication and analyze it .
+Also verify the correctness of this algorithm . and conquer , Greedy
+by What is the basic different between Divide 7
+method , Dynamic programming and Backtracking approach of
+problem solving ? Explain with example . a )
+Discuss the 0/1 knapsack problem and how this problem can be 7
+solved ? Explain the algorithm . b
+) Explain computing the single source 8
+Dijkstra's algorithm for shortest
+path in a graph with suitable example .
+1
+CS CamScanner
+
+
+Page 16
+
+6. a ) Define articulation point and connected component of the graph ? algorithm for finding articulation point
+bi -
+Write the in the graph with
+suitable example .
+b ) Explain about the complexity classes P , NP and NP complete with
+suitable examples . 7
+7. Write short notes on : ( Any two ) 2x5
+a ) Minimum Cost Spanning Tree
+b ) Optical Merge Pattern
+c ) String Editing Problem
+CS CamScanner
+
+

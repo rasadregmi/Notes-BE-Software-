@@ -1,0 +1,328 @@
+Page 1
+
+POKHARA UNIVERSITY
+Bachelor Semester : Spring Year Full Marks : 100 :
+Programme : BE Pass Marks : 45
+2017
+Course : Computer Graphics Time : 3hrs .
+Candidates are required to give their answers in their own words as far
+as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+1 . a ) Compare and contrast raster scan display and vector scan display
+architecture .
+7
+b ) Define Display controller ? What are the major application areas of
+8
+computer graphics ?
+2 a ) Define resolution . Suppose RGB raster system to be designed using
+8
+on 8 inch x 10 inch screen with a resolution of 100 pixels per inch in
+each direction . If we want to store 6 bits per pixel in the frame buffer ,
+how much storage ( in bytes ) do we need for frame buffer ?
+b ) Digitize one octant of a circle by using midpoint circle generation
+7
+algorithm center at origin and radius is 12 .
+3. a ) Derive an equation for drawing a line using Bresenhams's algorithm
+8
+for slope less than one .
+b ) Explain two dimensional line clipping algorithm with suitable
+7
+example .
+4. a ) Differentiate between windows and viewport ? Explain the steps of
+7
+viewing transformation .
+OR
+A mirror is placed vertically such that it passes through the points
+( 10,0 ) and ( 0,10 ) . Find the reflected view of triangle ABC with
+coordinates A ( 5,50 ) , B ( 20,40 ) and C ( 10,70 ) .
+b ) Describe the rotation of an object about an axis , which is
+parallel to any of three coordinate axes of coordinate 00 8
+system . 5. a ) Explain the back face detection
+
+method with an example . b ) What is ambient light
+8
+? Compare diffuse reflection with Specular reflection .
+1
+7
+CS CamScanner
+
+
+Page 2
+
+6. a ) Explain Fast Phong
+shading algorithm in detail with necessary
+b ) Why machine independent programming language is used ? Discuss
+about OPENGL .
+7. Write short notes on : ( Any two )
+a ) 2D rotation
+b ) Graphics file format
+c ) RGB color model
+CS CamScanner
+
+
+Page 3
+
+cessary Bachelor Semester : Fall : 2018 Year Full Marks : 100
+used ? Discuss Level : Programme : BE Computer Graphics Pass Marks : 45
+Course : Time : 3hrs .
+POKHARA UNIVERSITY
+Candidates are required to give their answers in their own as far practicable .
+words
+The figures in margin all the questions .
+the indicate full marks .
+Attempt
+a ) Differentiate between raster and random scan system with their corresponding architectures . 7
+b ) Define resolution and persistence . How long would it take to load a 640x480 frame buffer with 12 bits per pixel , if 10 bits can be 8
+transferred per second ? How long would it to load 24 bits per pixel
+frame buffer with a resolution of 1280x1024 with using the same
+transfer rate ?
+a ) How decision parameter is calculated in Mid point circle method . 7
+Show all necessary derivation .
+b ) Explain boundary fill and flood fill algorithm in detail . 8 00
+a ) What will be the final coordinates of a triangle with vertices A ( 2,3 ) . 8 00
+B ( 3,3 ) C ( 3,2 ) after reflecting it about the line y = x ?
+a ) Show how to use a 3 Dimensional matrix to rotate a unit cube about 8
+the axis defined by vector ( 1,1,1 ) .
+b ) What do you mean my windowing and Clipping ? Explain window 7
+to viewport transformation pipeline .
+b ) Explain Bezier method of curve drawing . 7
+b ) Explain the need for machine independent graphical languages . And 7
+a ) Define the terms : depth cueing and surface rendering . Write down 8
+the necessary algorithms for any one of the image space method .
+b ) How phong shading is different from Gouraud shading ? Explain it . 7
+a ) Obtain a illumination equation due to ambient , diffused and specular 8
+reflection model at a point .
+also explain about GKS .
+Write short notes on : ( Any two ) 2x5 computer graphics
+b ) Working principle of LED c ) Composite transformations a )
+Application areas of
+CS CamScanner
+
+
+Page 4
+
+Level : Bachelor Semester : Spring Full Marks : 100 Marks : 45
+POKHARA UNIVERSITY : 2018
+Programme : BE Pass : 3hrs .
+Course : Computer Graphics Time
+Year
+Candidates are required to give their answers in their own words as far as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+a ) Explain frame buffer ? How is computer graphics applicable in the of GUI , Entertainment and medical science ? Explain
+field and a row for a graphics system 5
+5
+c ) Explain raster scan system with video controller . 5
+2 ) How colors are displayed in monitor ? 5
+b ) Explain in steps the Z - buffer algorithm .
+c ) Explain scan Line Method . 5 000
+b ) Calculate the access time for a pixel 640 and frequency of 60 Hz .
+having resolution of 1024 * 5
+a ) Derive an equation for calculating points of an ellipse . 7
+b ) Rasterize the points of given line end points A ( -2 , -4 ) and B ( -6 , -9 ) 8
+using Bresenham's line drawing algorithm .
+a ) What is windowing and clipping ? Derive window to viewport 7
+transformation matrix .
+b ) Apply Cohen Sutherland line clipping algorithm for calculating the
+8 aa saved portion of a line from
+5. a ) 10 ) Define Projection ? Derive a matrix for
+( 2,7 ) to ( 8,12 ) in a window ( Xwmin =
+1 Ywmin 5 and Xwmax = Y. =
+== Winx
+a parallel projection . b ) Calculate ( x , y ) coordinate 7
+of Bezier curve described by the following 4 control points ( 0
+, 0 ) , ( 1 , 2 ) , ( 3 , 3 ) , ( 4 , 0 ) . Assume Explain 0 8
+any needed values . the Gouroud shading method with 6. a )
+its advantages . b ) Explain why is RGB called
+as additive and CMYK called subtractine model ? сл 5
+as 5
+H
+F G H J K L
+1
+N M
+CS CamScanner
+
+
+Page 5
+
+c ) Explain open GL .
+7. Write short notes on : ( Any two ) 2x :
+a ) Explain shading method of intensity interpolation .
+b ) Explain different file formats .
+c ) Viewing in 3D
+5
+CS CamScanner
+
+
+Page 6
+
+OKHARA UNIVERSITY
+Level : Bachelor : BE Semester : Fall Year : 2019 Full Marks : 100
+Programme Course : Computer Graphics Pass Marks : 45
+Candidates are required to give their answers in their own words as far practicable .
+Time : 3hrs .
+as full marks .
+The figures in the margin indicate
+Attempt all the questions .
+Explain the use of computer graphics emphasizing the application of of entertainment .
+graphics in the field raster monitor with a resolution of 7
+8
+b ) Consider a non - interlaced 20 horizontal and vertical retrace times are
+1280x1024 . If the total refresh time
+microsecond each , than calculate the fraction of electron beam ? Assume refresh rate
+per frame spent in retrace of the
+of 60 frames per second . between Beam penetration and 8
+a ) Define Video Controller ? Differentiate
+shadow mask method ?
+b ) Explain the working of DDA line drawing algorithm with suitable 7
+examples . Write its advantage and disadvantage .
+OR
+Explain Symmetrical property of circle . Write midpoint circle algorithm
+and apply that algorithm to find the pixel values of the circle whose radius
+r = 10 and centre of the circle = ( 0 , 0 ) .
+a ) Define Decision Parameter in Bresenham's line drawing ? Digitize a circle 8
+( x - 2 ) ² + ( y - 3 ) ² = 25 using a midpoint circle drawing algorithm .
+b ) Determine window to viewport transformation matrix for window ( 5 ,
+10 ) ( 15 , 20 ) and for viewport ( 8 , 12 ) ( 12 , 18 ) . Note the coordinates values 7
+are for lower left and upper right corner 4. a )
+. Why do you need clipping ? Explain the clipping
+Cohen Sutherland line algorithm . 8 b ) Derive the composite
+5 . a ) Explain and derive transformation object about an arbitrary 7
+matrix of 3D rotation
+about a line 8 00
+matrix for reflection an axis in 3D Space .
+CS CamScanner
+
+
+Page 7
+
+not parallel to any one axis . between Image space and Object space method . How A-
+b ) Distinguish removes the drawback of Z - buffer method .
+buffer method ambient light ? Compare between Additive and
+6. a ) What do you mean by model . Level : Ba
+subtractive color Programm
+b ) Define OpenGL ? Explain the different file format used in Graphics to Course :
+save image .
+7. Write short notes on : ( Any two )
+a ) Pros and Cons of Vector Graphics Candid
+b ) A - Buffer Method
+c ) Need for Machine Independent Graphical Languages as prac
+. The fig
+Attemp
+a ) Wha
+CS CamScanner
+
+
+Page 8
+
+Additive and POKHARA UNIVERSITY Semester : Spring Year : 2019
+nat used in Graphics Level : Bachelor Full Marks : 100
+to Programme : BE Course : Computer Graphics Pass Time : 3hrs .
+Marks : 45
+ages . as practicable . indicate full marks .
+8 a ) What is computer Graphics ? How it is used in education and training
+7 b ) Explain the architecture of raster scan system with importance of
+Candidates are required to give their answers in their own words as far
+The figures in the margin
+Attempt all the questions .
+and entertainment ?
+video controller .
+2a ) Explain the Bresenham's Line drawing algorithm with suitable 00
+example .
+b ) Derive mid - point Circle algorithm . 7 7∞
+3. a ) What is clipping ? Explain Cohen Sutherland's line clipping algorithm 8
+with suitable example .
+b ) Explain 2D transformation using Homogeneous coordinator system . 7
+4. a ) Explain Beizer curve and also specify the properties of Beizer curve 8
+b ) Explain and derive parallel projection transformation matrix . 7
+5. a ) What is Hidden surface ? Explain the back face detection method 7
+b ) Explain Gouraud and phong shading method with its advantages and 8
+disadvantages .
+6. a ) Explain ambient , diffuse and specular reflection . 7
+b ) Explain about PHIGS and GKS language . 8
+7. Write short notes on : ( Any two ) 2x5
+a ) Touch panel
+b ) Area Subdivision Method OPENGL
+c )
+CS CamScanner
+
+
+Page 9
+
+Level : Bachelor Semester : Fall Full Marks : 100 45
+Programme : BE Pass Marks : 3hrs .
+PO KHARA UNIVERSITY 2020
+Course : Computer Graphics Time :
+Year :
+Candidates are required to give their answers in their own words as far as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+a ) How the entertainment and gaming industry has revolutionized advancement in computer graphics explain your answer with some real
+by the 7
+life examples . scan display system 00 8
+b ) Discuss the difference between raster and random
+with its architectural diagram .
+a ) Derive an equation for calculating points of an ellipse . ( -2 , -4 ) and B ( -6 , -9 ) 8
+7
+b ) Rasterize the points of given line end points A algorithm .
+using Brenham's line drawing
+a ) Find the Trans formation matrix for window to viewport 7
+Trans formation .
+b ) What is windowing and clipping ; how a polygon can be clipped 8
+explain ?
+4. a ) Derive equation for Bezier curve in quadratic polynomial and specify 7
+the blending function
+b ) Define projection . Difference between parallel and perspective
+projection with figure 8
+5. a ) Explain the importance of hidden surface removal
+b ) method of hidden surface removal . Differentiate between Gouraud and phong shading
+in computer graphics , explain scan line 7
+with algorithm .
+6. a ) What is color model 8
+. Explain RGB and CMYK color model .
+b ) Explain GKS
+and PHIGS . Also list out the available graphical file format .
+7
+8
+CS CamScanner
+
+
+Page 10
+
+going to hard Programme Course : Computer Graphics words as far
+to Fch data answers in their own
+process mputing Candidates are required to give their
+Level : Bachelor BE Semester Pass Marks Time : 3hrs .
+:
+POKHARA UNIVERSITY Fall Year : 2021 Full Marks : 100
+: : 45
+as practicable . the margin indicate full marks .
+The figures in the questions .
+Attempt all of computer 7
+1. a ) Define computer graphics . List graphics in different fields . resolution of 1024 * 768 having the 8-
+the application
+b ) In a true color system having refresh rate of 60fps calculate the following
+i . Size of frame buffer
+ii . Access time of one frame
+iii . Access time for one pixel
+iv . Access time for one row
+Note : convert your memory into Mega Byte .
+2. a ) Differentiate between raster and Vector scan display system 8
+along with their architecture .
+b ) Digitize the first octant of a circle having radius 1-8 and centered 7
+at ( 3,4 )
+3. a ) Prove that successive translation and rotation is additive . 8
+b ) Explain the role of composite transformation in 2D / 3D 7
+4. a ) What is 3D transformation ? Rotate the triangle A ( 0,0 ) , B ( 2,2 ) , 8
+geometric transformation . Explain viewing pipelining in 2D .
+C ( 4.2 ) about the origin by an angle of 45 ° .
+b ) How you represent different objects in 3D . Differentiate
+between parallel and perspective projection with example ? 7
+5. a ) What is Mach band effect ? Differentiate between Gouraud and
+Phong shading . 8
+b ) Define color model in computer graphics . Differentiate between
+additive color and subtractive color . 7
+CS CamScanner
+
+

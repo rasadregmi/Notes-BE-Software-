@@ -1,0 +1,336 @@
+Page 1
+
+6. a ) Explain the importance of hidden surface removal in computer graphics . What are the drawbacks of z - buffer method and how it 7
+is corrected in A - buffer ?
+b ) Explain how machine independent graphical language are more 8
+preferable to develop graphical project .
+7. Write short notes on : ( Any two ) 2x5
+a ) Open GL
+b ) Beizer curve
+c ) Polygon Table
+CS CamScanner
+
+
+Page 2
+
+2 × 5
+POKHARA UNIVERSITY : 2021
+or Semester : Spring Full Marks : 100
+Programme : BE Course Pass Marks : 45
+: Computer Graphics Time : 3 hrs .
+Year
+Candidates are required to give their answers in their own words as far as practicable
+.
+The figures in the margin indicate full marks .
+Attempt all the questions .
+1. a ) Compare and contrast the Raster and Random system with the 7
+necessary diagram .
+b ) Define resolution and persistence . Explain the digital to analog 8
+converter in frame buffer organization ? )
+2 . a Write Bresenhams line drawing algorithm along with necessary 8
+derivation for positive slope less than 1 i.e. Im < 1.Trace the algorithm
+for the line with end points A ( 6,12 ) and B ( 10,15 ) .
+7 b ) Explain the Sutherland Hodgeman polygon clipping algorithm
+considering the four different cases .
+OR
+Let R be the rectangular window whose lower left hand corner is at L
+( -3 , 1 ) and upper right - hand corner is at R ( 2 , 6 ) . Use Cohen -
+Sutherland algorithm to clip the line segments A ( -4 , 2 ) and B ( -1 , 7 ) .
+3. a ) Derive a composite transformation matrix for reflecting an object 7
+about a line y = x + 4 in 2D
+b ) Differentiate between window and viewport . Derive a matrix for 8
+window to viewport transformation .
+4. a ) What do you mean by a projection ? Derive an expression to obtain the 7
+perspective projection of any arbitrary point .
+b ) Why filling algorithm is required in computer graphics ? Explain about 8
+scan line polygon filling algorithm .
+8 5. a ) What are the different ways of representing 3D objects in computer
+Graphics ? Explain how can you represent a polygon surface as a 3D-
+object . surfaces , in case of 3D viewing ?
+b ) Why is it necessary to detect visible removal 7
+Explain Z - buffer Algorithm for hidden surface . Describe how Gouraud Shading algorithm can be used in rendering a 6. a ) 7
+realistic 3D object .
+Why do we need the machine independent graphical languages ? List 8
+out some of the graphical file formats and explain them in short .
+CS CamScanner
+
+
+Page 3
+
+7 . Write short notes on : ( Any two )
+a ) Diffuse us specular Reflection 2x5
+b ) Color models
+c ) Application of computer graphics
+CS CamScanner
+
+
+Page 4
+
+Level : Bachelor POKHARA Semester : Fall Year : 2022 Marks : 100
+UNIVERSITY
+Programme : BE Full Pass Marks : 45
+Course : Computer Graphics Time : 3hrs .
+1. a ) Define Computer Graphics ? Explain the applications of CG in Scientific Visualization and CAD .
+Candidates are required to give their answers in their own words as far as practicable .
+The figures in the margin indicate full marks .
+Attempt all the questions .
+Computer Simulation , raster scan system
+b ) Define Refresh rate and Resolution . Consider a screen with a resolution of 300 pixels per
+having 20 - inch by 30 - inch each direction . If the display controller of the system refreshes
+inch in at rate of 60 frames per second , how many pixels could be
+the screen a accessed per second and what is the access time per pixels of the
+system .
+2. a ) Define CRT ? Explain with neat diagram about the working principle 7
+of shadow mask method ?
+7
+b ) Consider a line from ( 2,1 ) to ( 8,3 ) using DDA algorithm to rasterize a 8
+line .
+3. a ) Explain the boundary fill algorithm in detail . How this approach differs 8
+from flood fill ?
+b ) Prove that : 7
+i . Two successive Translations are Additive
+ii . Two successive Scaling are Multiplicative
+4. a ) Window port is given by ( 100,100,300,300 ) and viewport is given by 7
+( 50,50,150,150 ) . Convert the window port coordinate ( 200,200 ) to the
+viewport coordinate .
+b ) A mirror is placed vertically such that it passes through
+the points ( 5 , 0 ) and ( 0 , 5 ) . Find the reflected view of triangle ABC with 8
+coordinates A ( 5 , 30 ) , B ( 30 , 50 ) and C ( 20 , 60 ) .
+5. a ) How do you represent 3D objects by using Polygon consistency
+Tables ? How is the of geometric data table checked and what are generating 7
+the rules for error free polygon tables ?
+1
+ASD F G H
+CS CamScanner
+
+
+Page 5
+
+5 . 2 ) Derive the equation for cubic Bezier curve and find the coordinate at 8 00
+b ) What is OpenGL ? Why GLUT is implemented in OpenGL Explain 8
+Callback function .
+= 0.2 with respect to the control points ( 1 , 1 ) , ( 4 , 6 ) ( 8 , -3 ) and ( 12 , 2 ) .
+b ) Why depth sorting method is called Painter's Algorithm ? Explain scan
+line method for visible surface detection with an example . 7
+7. Write short notes on : ( Any two ) 2x5
+a ) Light pen
+b ) Color models
+c ) Phone shading
+CS CamScanner
+
+
+Page 6
+
+explain coordinate UNIVERSITY Year : 2023 100
+at 3 ) and ( 12 , 2 ) . Algorithm ? Explain POKHARA Semester : Spring Level : Bachelor Full Marks Pass Marks : 45 : 3hrs .
+scan example . Programme : BE Course : Computer Graphics Time own words as far
+2x5 Candidates are as practicable . required to give full marks .
+1. a ) Define computer graphics with its graphics technology impacted the gaming industry in terms
+2. a ) How much time is spent scanning across each on a raster system with a resolution of 1280 by 1024
+b ) Graphical systems are composed Why ? Explain the working principle of Data gloves with
+:
+their answers in their
+The figures in the margin indicate
+Attempt all the questions . has the evolution of 8
+type . How
+computer of realism and player immersion ? DAC and Frame Buffer 7
+of
+organization . example .
+row of pixels during 7
+screen refresh refresh rate of 60 frames per second ?
+and a point symmetry ? Explain the
+b ) Why Circle and Ellipse uses different circle generation algorithm by calculating its initial decision 00 8
+mid - point
+parameter .
+3. a ) What is uniform scaling ? Reflect an object ( 2 , 3 ) , ( 4 , 3 ) , ( 4 , 5 ) about 8
+line y = x + 1 .
+b ) How is Scan line algorithm different from Flood fill algorithm for 7
+filling polygons ? Explain .
+4. a ) What do you understand by the term clipping ? Explain the Cohen- 8
+Sutherland line clipping algorithm with suitable example .
+b ) Why we need the machine independent graphical language ? Explain
+two different graphical software standards . 7
+5. a ) Define blobby objects with example . What is cubic
+Bezier curve ? Derive the equation of Cubic Bezier curve . 8
+b ) Why is it required to detect visible surfaces
+in 3D viewing and not in 2D ? How is Back face detection approach
+different from Z Buffer approach for detecting visible surfaces ? 7
+1
+WER T оp
+S DF G H J
+K L
+CS CamScanner
+
+
+Page 7
+
+6. a ) Explain the 3D viewing pipeline . Briefly explain the significance of 8
+World coordinate system , Viewing coordinate system , Normalized
+viewing coordinate system and Device coordinate system in the Bachelor
+viewing pipeline . Level : Programme : BE
+b ) What is illumination model ? Differentiate between Phong Shading and Computer G
+Gouraud Shading . 7 Course :
+7. Write short notes on : ( Any two )
+a ) Specular Reflection 2x5 Candidates ar
+b ) Parallel vs. Perspective Projection as practicable
+c ) Area Subdivision Method The figures in
+1. a ) Differenti architectu
+Attempt all th
+b ) How is F inch b
+14
+direction
+video co
+2. a ) Define princip
+Consid
+b ) Expla betwe
+3. a ) Find ( 10
+rasteri
+C Win
+b ) Suth
+4 . a ) Dif exa
+b ) Ho su
+VI
+5. a )
+T
+CS CamScanner
+
+
+Page 8
+
+the
+ding and POKHARA UNIVERSITY Level : Bachelor Semester : Fall Your : 2023
+7 Programme : BE Full Marks : 100 Pass Marks : 45
+2x5 Course : Computer Graphics ( Old ) Time : 3hrs . answers in their own words as far
+1. a ) Differentiate between raster scan and vector scan system with its architectural 7
+b ) How is Resolution different from Aspect ratio ? A raster scan system has resolution of 220 pixels per inch in each 8
+2. a ) Define Emissive and Non - Emissive Display . Explain the working 7
+Candidates are required to give their as practicable
+.
+The figures in the margin indicate full marks .
+Attempt all the questions .
+diagram .
+14 inch by 10 inch screen with a per pixel of the screen if the
+direction . What would be the access time frames per second ?
+video controller refreshes the screen at a rate of 65
+principle of LCD display .
+OR
+Consider a line from ( 5 , 5 ) to ( 13 , 9 ) . Use Bresenham's algorithm to
+rasterize the line .
+b ) Explain flood fill algorithm using four connected method . Differentiate 8
+3. a ) Find the final coordinates of a triangle with vertices A ( 5,8 ) B ( 15,8 ) 8
+b ) 7 Window is defined as ( 20,20 ) , ( 90,20 ) , ( 90,70 ) , ( 20,80 ) .Use Cohen
+4. a ) T Differentiate between Parallel and perspective projection with an
+b ) 8 How is ISM approach different from OSM approach for detecting visible surfaces
+5. a ) The 3D viewing process is more complex than 2D viewing process . Why 7
+6 . a ) Beizer curve . Why do programs that use OpenGL can be run on multiple hardware platforms ? Explain 007 8
+b ) What is cubic Beizer curve ? Derive the equation of cubic
+b ) Explain the color models with its geometrical representation and their relationship .
+between boundary and flood fill algorithm ..
+C ( 10,16 ) after reflecting it about line y = -2x - 2 .
+Sutherland line clipping algorithm to clip the line P ( 10,30 ) Q ( 80,90 ) .
+example .
+? How does Backface detection algorithm work for detecting
+visible surfaces ?
+? How the mismatch between 3D and 2D is compensated . Explain
+the steps with its appropriate figure .
+the basic OpenGL API that are used for rendering graphical objects .
+8
+Page 1 of 2
+YU I ERTY U
+CS CamScanner
+
+
+Page 9
+
+7 . Write short notes on : ( Any two ) 2x5
+a ) PHIGS
+b ) Data Gloves
+c ) Diffuse Reflection
+CS CamScanner
+
+
+Page 10
+
+2 * 5 UNIVERSITY
+Programme : BE Pass Marks : 45 : 3hrs . Object Oriented Design and Modelling
+Level : Bachelor Semester - Full Full Marks : 100
+POKHARA : 2012
+Year
+Time Course :
+through UML
+Candidates are required to give their answers in their own words as far practicable .
+as indicate full marks .
+The figures in the margin
+Attempt all the questions .
+What are various notations provided by the UML for capturing the static and dynamic aspects of a software system ? Explain with figures .
+Explain how the change in requirements is handled on an iterative g development . List out the advantage of an iterative and incremental
+process of software development over waterfall development process .
+What is the basic procedure to find out the use cases ? List benefits of 5
+writing use cases during software development process ?
+Explain when the changes occur in mapping design to code . 5
+7
+How do we assign responsibilities to objects ? Explain with a suitable 5
+example .
+a ) What is the significance of using interaction diagram Compare
+What are various relationships that might exist between different domain 8
+elements ? Explain using a Patient billing system as an
+example .
+What are the important contents of a Post condition of an operation
+contract ? How is mapping of these operation contracts done during 7
+Object Oriented design phase ?
+OR Define
+role of multiplicity and non primitive types with
+suitable examples . 7
+during design ? and contrast system sequence diagram and collaboration diagram in terms of 8
+its weakness and strength . b ) When is it
+desirable to use Controller pattern instead of using Information expert pattern when assigning
+responsibility to objects ? What are the conditions for preparing a ) 7
+a contract ? Does
+writing 1 7
+H J K L
+CS CamScanner
+
+
+Page 11
+
+contracts leads to domain model updates , defend your answer expect and plan for change and deviation from Bachelor BE Oriented Design.
+b ) Why is it desirable to the design even during programming phase ? Explain Object the
+6. Case Study : Online Hotel Reservation System register his / her personal ugh UML required to give
+When making a reservation a customer must information . To speed up the process details of previous customers will be dates are indicate
+stored and made available later . By this system the customer can make reservation and cancel it . When making a reservation the customer can the margin practicable .
+choose the number of rooms , the type of room , services ( laundry , meal , transportation etc figures in the questions .
+) . The reservation is confirmed when customer pay 10 % of the total charges . After the mpt all
+reservation , the customer will get an e - mail of the details of the reservation between state
+. Differentiate
+Within a hotel there is a reservation administrator who is responsible for controlling diagram and
+reservations at the hotel . He is also responsible for processing no - shows ( When the component
+reservation at the hotel doesn't show up at reserved date ) and makes a reservation Examples . importance d
+for a customer . Now Describe the
+answer the following questions : briefly all the ph
+a ) Identify all the use cases and actors and describe How
+draw a use case diagram . Also write all the course of events for one Define Use Cases .
+use case . b ) Draw class diagram explain with an
+for the above scenario . 7. Write process
+short notes on any two : Describe the importan
+a ) Visibility detail for at least one
+b ) Relationship between GRASP 2 4
+and UML c ) High cohesion and your own . acti
+low coupling What are the
+POKHARA UNIV Semester :
+and N
+process ? How can p "
+be identified ?
+" Well designed in
+analysis and des
+exclusive condit
+a ) Show with an e
+a Collaboration
+b ) What is the di
+How does ma
+responsibilit
+a ) How cohe
+suitable ex
+the
+CS CamScanner
+
+
